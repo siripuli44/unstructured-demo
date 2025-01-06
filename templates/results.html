@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Query Results</title>
+</head>
+<body>
+    <h1>Results for: {{ question }}</h1>
+    <ul>
+        {% for result in results %}
+            <li>Email: {{ result.email }}, Subject: {{ result.subject }}, Date: {{ result.date }}, Sender: {{ result.sender }}, Category: {{ result.category }}</li>
+        {% endfor %}
+    </ul>
+    <a href="/">Ask another question</a>
+</body>
+</html>

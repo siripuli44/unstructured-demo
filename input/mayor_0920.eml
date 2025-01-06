@@ -1,0 +1,1863 @@
+Received: from DS0PR09MB11233.namprd09.prod.outlook.com (::1) by
+ PH0PR09MB11422.namprd09.prod.outlook.com with HTTPS; Fri, 20 Sep 2024
+ 21:27:26 +0000
+Received: from SA0PR09MB6604.namprd09.prod.outlook.com (2603:10b6:806:7e::20)
+ by DS0PR09MB11233.namprd09.prod.outlook.com (2603:10b6:8:16b::8) with
+ Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id 15.20.7982.23; Fri, 20 Sep
+ 2024 21:27:17 +0000
+Received: from BLAPR09MB6914.namprd09.prod.outlook.com (2603:10b6:208:2a3::15)
+ by SA0PR09MB6604.namprd09.prod.outlook.com (2603:10b6:806:7e::20) with
+ Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id 15.20.7982.23; Fri, 20 Sep
+ 2024 21:25:29 +0000
+Received: from BLAPR09MB6914.namprd09.prod.outlook.com
+ ([fe80::792f:b00a:7b06:4383]) by BLAPR09MB6914.namprd09.prod.outlook.com
+ ([fe80::792f:b00a:7b06:4383%6]) with mapi id 15.20.7982.022; Fri, 20 Sep 2024
+ 21:25:29 +0000
+From: Mayor Bowser <Mayor.Bowser@dc.gov>
+To: Mayor Bowser <Mayor.Bowser@dc.gov>
+Subject: DC's Summer Recap
+Thread-Topic: DC's Summer Recap
+Thread-Index: AQHbC6McChok8qCZvkS2yesuP9dh47JhLwmQ
+Date: Fri, 20 Sep 2024 21:25:29 +0000
+Message-ID:
+	<BLAPR09MB6914C02CC730CD9D1CD14F82916C2@BLAPR09MB6914.namprd09.prod.outlook.com>
+References:
+	<010101921149482d-07173b28-c1bd-4b74-9268-ae81ed05429a-000000@us-west-2.messagingfabric.com>
+ <SJ0PR09MB11346639FD57E260CF44FDD6AA96C2@SJ0PR09MB11346.namprd09.prod.outlook.com>
+ <BLAPR09MB6914F3CE5636A7A866E948AB916C2@BLAPR09MB6914.namprd09.prod.outlook.com>
+In-Reply-To:
+	<BLAPR09MB6914F3CE5636A7A866E948AB916C2@BLAPR09MB6914.namprd09.prod.outlook.com>
+Accept-Language: en-US
+Content-Language: en-US
+X-MS-Exchange-Organization-AuthAs: Internal
+X-MS-Exchange-Organization-AuthMechanism: 04
+X-MS-Exchange-Organization-AuthSource: BLAPR09MB6914.namprd09.prod.outlook.com
+X-MS-Has-Attach:
+X-Auto-Response-Suppress: DR, OOF, AutoReply
+X-MS-Exchange-Organization-Network-Message-Id:
+	fc092ea1-aec5-462d-5092-08dcd9bac05d
+X-MS-Exchange-Organization-SCL: 1
+X-MS-TNEF-Correlator:
+X-MS-Exchange-Organization-RecordReviewCfmType: 0
+x-ms-publictraffictype: Email
+X-Microsoft-Antispam-Mailbox-Delivery:
+	ucf:0;jmr:0;auth:0;dest:I;ENG:(910001)(944506478)(944626604)(920097)(425001)(930097)(140003)(1420198);
+X-Microsoft-Antispam-Message-Info:
+	R+TFPBW+qwlTwcHTy26o7+OYcnS4QRKagipD6db0m3y5sVHQWRfurM7HkbG+E0xU0+B/W3vd6SrBQZ7W3S9hG9DaFLvcozKz4tA870uXIOka43N3gL3uv44+u/XantPC5GH2UzTQxLTfGfdS4j+lSq6b4oiwIbv72A0GCEBrDm8D8TYT0snUV+baL+mAaCkFY0htluuUArvMff8SpW1p8gIvbg2MBN1C2fpBhZfXxyRjDxBOrT8slIKcgzqLh5D+PgzO8RM2+UnQPD9orTZlZoOhGvN8EX8plsEzuD4gcavxo+63cmdpR+kunlOsbg588HGfkrbP1NLoHc3CiXWCwoO5eOcAX9y0s7rSOZVG2vXGDfJeFSkUOcQD6R6L5ipqOTpAny4ZQpg/1a/n+Dtetvb954BPymQ2Eef+GmqJnu5GCLCbh3+Dl+6ONRB/xL+UBJbvxT0esBVTt4OL8T8AgsbUPtLzc3LEKm8kx5VYmtoELD4RV4c5wL3CnuoZFBgBRK85kw2zhEZ4V6UJxgvPA10FZAN5uLEBQ6R+ofQl2aMR1KUQs1q3O3YTEMqs5JjQxMMRUUIM/DVScZd2NGfbTRHf0GQJRFMSntTBCsDxc3ZavabOJVCGbGpvw0tLrxMdhfB1kxdB8wXP/7FSupn9noN0PidnqfMb7Wgke2fuO9bd2gjnqvf08VPGlXRPE5+t67UP2eYD4yI8SGISsPpgkfk0OQqEhR1GmyAtQlNIElMUSSBDFZUMpF+gBrUlvwXPyWoSdcdF5/O8nteUAo4yvjyNG2FV3H931p5I89hQLMzZaKTSuN0UcLZp46HO2g1ncONl8YMkK3r8Yo6AiEFDIQ==
+Content-Type: multipart/alternative;
+	boundary="_000_BLAPR09MB6914C02CC730CD9D1CD14F82916C2BLAPR09MB6914namp_"
+MIME-Version: 1.0
+
+--_000_BLAPR09MB6914C02CC730CD9D1CD14F82916C2BLAPR09MB6914namp_
+Content-Type: text/plain; charset="Windows-1252"
+Content-Transfer-Encoding: quoted-printable
+
+
+________________________________
+
+[Newsletter Banner]
+[X-logo-4x4]<https://gcc02.safelinks.protection.outlook.com/?url=3Dhttps%3A=
+%2F%2Fvmm0dj30.r.us-west-2.awstrack.me%2FL0%2Fhttps%3A%252F%252Ftwitter.com=
+%252FMayorBowser%2F1%2F010101921149482d-07173b28-c1bd-4b74-9268-ae81ed05429=
+a-000000%2FVvVdbOw-9fvIM8C7yjTEn6_5bH4%3D393&data=3D05%7C02%7Csirisha.puliv=
+arthi%40dc.gov%7Cfc092ea1aec5462d509208dcd9bac05d%7C8fe449f18b944fb799066f9=
+39da82d73%7C0%7C0%7C638624644467283489%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4w=
+LjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C0%7C%7C%7C&sdata=
+=3Du2lNTIUaYX054cQE8KO64l%2FmeaN6zUwdAXpmJKiwuVQ%3D&reserved=3D0>
+
+
+
+[FB-logo-40x40]<https://gcc02.safelinks.protection.outlook.com/?url=3Dhttps=
+%3A%2F%2Fvmm0dj30.r.us-west-2.awstrack.me%2FL0%2Fhttps%3A%252F%252Fwww.face=
+book.com%252FMayorMurielBowser%2F1%2F010101921149482d-07173b28-c1bd-4b74-92=
+68-ae81ed05429a-000000%2FUflR4e9JWj_h2KWP-1wzNN7HfQ0%3D393&data=3D05%7C02%7=
+Csirisha.pulivarthi%40dc.gov%7Cfc092ea1aec5462d509208dcd9bac05d%7C8fe449f18=
+b944fb799066f939da82d73%7C0%7C0%7C638624644467302858%7CUnknown%7CTWFpbGZsb3=
+d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C0%7C=
+%7C%7C&sdata=3DfwEyzOrP%2BQr1wITL9VG14gulur5papV6BsmNgdnwhqE%3D&reserved=3D=
+0>
+
+
+
+[IG-logo-40x40]<https://gcc02.safelinks.protection.outlook.com/?url=3Dhttps=
+%3A%2F%2Fvmm0dj30.r.us-west-2.awstrack.me%2FL0%2Fhttps%3A%252F%252Fwww.inst=
+agram.com%252Fmayor_bowser%252F%2F1%2F010101921149482d-07173b28-c1bd-4b74-9=
+268-ae81ed05429a-000000%2F1yM1U9y9Aezke0nGY0EPc3r-ofE%3D393&data=3D05%7C02%=
+7Csirisha.pulivarthi%40dc.gov%7Cfc092ea1aec5462d509208dcd9bac05d%7C8fe449f1=
+8b944fb799066f939da82d73%7C0%7C0%7C638624644467315729%7CUnknown%7CTWFpbGZsb=
+3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C0%7=
+C%7C%7C&sdata=3DDNQYqxtF5qxS%2FQ%2Bxnrf36lIhOu%2FVdMNVH1sZGEnhogw%3D&reserv=
+ed=3D0>
+
+
+
+
+
+
+
+
+
+John A. Wilson Building
+1350 Pennsylvania Avenue, NW, Washington, DC 20004
+
+
+
+Phone: (202) 727-2643
+Email: muriel.bowser@dc.gov<mailto:muriel.bowser@dc.gov>
+
+Chief of Staff:
+Lindsey Parker<mailto:lindsey@dc.gov>
+
+City Administrator:
+Kevin Donahue<mailto:kevin.donahue@dc.gov>
+
+Director of the Mayor's Office of Legal Counsel:
+Eugene Adams<mailto:eugene.adams@dc.gov>
+
+Senior Advisor:
+Beverly Perry<mailto:beverly.perry@dc.gov>
+
+Director of Mayor's Office of Community Affairs:
+Jackie Reyes-Yanes<mailto:jackie.reyes@dc.gov>
+
+Scheduling Requests:
+mayor.dc.gov/page/invite-mayor<https://gcc02.safelinks.protection.outlook.c=
+om/?url=3Dhttp%3A%2F%2Fvmm0dj30.r.us-west-2.awstrack.me%2FL0%2Fhttp%3A%252F=
+%252Fmayor.dc.gov%252Fpage%252Finvite-mayor%2F1%2F010101921149482d-07173b28=
+-c1bd-4b74-9268-ae81ed05429a-000000%2FTVSq2SX39ZQ1-IeD98Df_yYOqWA%3D393&dat=
+a=3D05%7C02%7Csirisha.pulivarthi%40dc.gov%7Cfc092ea1aec5462d509208dcd9bac05=
+d%7C8fe449f18b944fb799066f939da82d73%7C0%7C0%7C638624644467328108%7CUnknown=
+%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6=
+Mn0%3D%7C0%7C%7C%7C&sdata=3DqtD1pJ9V8NqNi8fR%2B3Y17bumCcLrOkt0dHlaqtcUaUo%3=
+D&reserved=3D0>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+September 20, 2024
+Letter from the Mayor
+
+Dear Washingtonians,
+
+As we approach the official last day of summer, I want to take a moment to =
+thank the many people in our community=97DPR and MBSYEP staff, parents and =
+guardians, local businesses and community organizations, and so many more=
+=97for your dedication to making this a fun, productive, and enriching summ=
+er for our city's youngest residents.
+
+Here=92s a look at just some of what we achieved together this summer:
+
+  *   11,885 young Washingtonians gained meaningful work experience through=
+ the Mayor Marion S. Barry Summer Youth Employment Program. Thank you to th=
+e nearly 800 job sites that opened their doors, offering mentorship, skill-=
+building, and real-world opportunities to our participants.
+  *   4,468 campers ages 3 through 16 had fun exploring, being creative, an=
+d building lasting memories at Department of Parks and Recreation summer ca=
+mps. Thank you to our dedicated counselors, staff, and program leaders who =
+helped us offer nearly 12,000 camp slots throughout the summer!
+  *   189 summer meal sites served tens of thousands of nutritious meals to=
+ children across all eight wards through the DC Youth Meals Program. Thank =
+you to OSSE, community groups, and partner agencies for another successful =
+summer meals program.
+  *   $400 million was invested to modernize our DC Public Schools, creatin=
+g world-class learning environments for our students and teachers to return=
+ to. A big thank you to the Department of General Services for rising to th=
+is ambitious challenge!
+
+Whether you provided a job, enrolled your child in a camp, or supported beh=
+ind the scenes, you played a vital role in helping our young people thrive.=
+ And remember=97summer isn't officially over yet! Two DPR pools, along with=
+ all spray parks, will remain open until 6:00 p.m. on Sunday, September 22.=
+ So, there=92s still time to enjoy a little more summer fun. For more detai=
+ls, visit dpr.dc.gov/outdoorpools<https://gcc02.safelinks.protection.outloo=
+k.com/?url=3Dhttps%3A%2F%2Fvmm0dj30.r.us-west-2.awstrack.me%2FL0%2Fhttps%3A=
+%252F%252Fdpr.dc.gov%252Foutdoorpools%2F1%2F010101921149482d-07173b28-c1bd-=
+4b74-9268-ae81ed05429a-000000%2FfeN53NWcuVtyFVjWthV08GvSH7g%3D393&data=3D05=
+%7C02%7Csirisha.pulivarthi%40dc.gov%7Cfc092ea1aec5462d509208dcd9bac05d%7C8f=
+e449f18b944fb799066f939da82d73%7C0%7C0%7C638624644467340563%7CUnknown%7CTWF=
+pbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D=
+%7C0%7C%7C%7C&sdata=3DxTszJdGUcaujiL0208WRssKRl20qdONXmYHVh%2B%2BbVNE%3D&re=
+served=3D0>.
+
+Sincerely,
+[Muriel Bowser][Whitlock]
+
+View photos from this week on Facebook<https://gcc02.safelinks.protection.o=
+utlook.com/?url=3Dhttps%3A%2F%2Fvmm0dj30.r.us-west-2.awstrack.me%2FL0%2Fhtt=
+ps%3A%252F%252Fwww.facebook.com%252Fmedia%252Fset%252F%253Fvanity%3DMayorMu=
+rielBowser%2526set%3Da.1098507458305886%2F1%2F010101921149482d-07173b28-c1b=
+d-4b74-9268-ae81ed05429a-000000%2FW9b755AEYugcBVFN9egJSaWMpWE%3D393&data=3D=
+05%7C02%7Csirisha.pulivarthi%40dc.gov%7Cfc092ea1aec5462d509208dcd9bac05d%7C=
+8fe449f18b944fb799066f939da82d73%7C0%7C0%7C638624644467352801%7CUnknown%7CT=
+WFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%=
+3D%7C0%7C%7C%7C&sdata=3DyERzxbhsHsRfl1SOPOKSisnqs7yCOXsYszNFfUL6eG0%3D&rese=
+rved=3D0>.
+
+In This Week's Newsletter:
+
+  *   Dine All Night in the District
+  *   National Seat Check Saturday: Free Car Seat Installation and Giveaway
+  *   #BeDowntown: =93We Who Believe in Freedom: Black Feminist DC=94 Exhib=
+it
+
+Dine All Night in the District
+[Dine All Night]
+
+Dine All Night is happening now! The 10-day culinary celebration showcases =
+the talent and creativity of DC's food and drink scene. Through a series of=
+ unique experiences, special menu items, and carefully curated dining itine=
+raries, Dine All Night will provide you with a fresh perspective on dining =
+in DC.
+
+  *   When: Now through Sunday, September 29
+  *   Find participating restaurants at dcartallnight.org/dine-all-night<ht=
+tps://gcc02.safelinks.protection.outlook.com/?url=3Dhttp%3A%2F%2Fvmm0dj30.r=
+.us-west-2.awstrack.me%2FL0%2Fhttp%3A%252F%252Fwww.dcartallnight.org%252Fdi=
+ne-all-night%2F1%2F010101921149482d-07173b28-c1bd-4b74-9268-ae81ed05429a-00=
+0000%2Fu6ToND7o_zmv9LKvf5WCLmctavU%3D393&data=3D05%7C02%7Csirisha.pulivarth=
+i%40dc.gov%7Cfc092ea1aec5462d509208dcd9bac05d%7C8fe449f18b944fb799066f939da=
+82d73%7C0%7C0%7C638624644467365254%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAw=
+MDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C0%7C%7C%7C&sdata=3DypR=
+bg7UXgYmsq9hoqYslOK74SXAZ9C3TnkBRMDLb1Fs%3D&reserved=3D0>
+
+Back to Top
+
+National Seat Check Saturday: Free Car Seat Installation and Giveaway
+[U92435878]
+Ensure your child=92s safety with a properly installed and professionally i=
+nspected car seat! DC residents can receive a free car seat with proof of v=
+alid ID (while supplies last, and the child must be present). When installe=
+d correctly, car seats can be lifesaving=97don't miss this opportunity to p=
+rotect your little ones.
+
+  *   When: Saturday, September 21 at 10:00 a.m.
+  *   Where: Bald Eagle Recreation Center, 100 Joliet St SW
+
+Back to Top
+
+#BeDowntown: =93We Who Believe in Freedom: Black Feminist DC=94 Exhibit
+[kids world]
+
+Discover this powerful exhibit at the Martin Luther King Jr. Memorial Libra=
+ry, highlighting the legacy of Black feminist leaders who shaped movements =
+for justice in DC and beyond. The exhibit traces their impact from the earl=
+y 20th century to today, focusing on the fight for freedom and liberation. =
+Plan your visit and discover how their work continues to inspire change!
+
+  *   When: Now through Sunday, September 29th
+  *   Where: First Floor West, Martin Luther King Jr. Memorial Library, 901=
+ G Street NW
+  *   More information: womenshistory.org/black-feminist-dc<https://gcc02.s=
+afelinks.protection.outlook.com/?url=3Dhttp%3A%2F%2Fvmm0dj30.r.us-west-2.aw=
+strack.me%2FL0%2Fhttp%3A%252F%252Fwomenshistory.org%252Fblack-feminist-dc%2=
+F1%2F010101921149482d-07173b28-c1bd-4b74-9268-ae81ed05429a-000000%2F8XlAMGq=
+EXZQvIk_wWqPlFPejufc%3D393&data=3D05%7C02%7Csirisha.pulivarthi%40dc.gov%7Cf=
+c092ea1aec5462d509208dcd9bac05d%7C8fe449f18b944fb799066f939da82d73%7C0%7C0%=
+7C638624644467379662%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2=
+luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C0%7C%7C%7C&sdata=3DyFfR6Xm8tF4h2%2Fr=
+TByLmpWKUmPf1Q%2Bg%2Bot3ZLmxuO%2BM%3D&reserved=3D0>
+
+Back to Top
+
+Mayor Muriel Bowser
+
+John A. Wilson Building | 1350 Pennsylvania Avenue, NW | Washington DC, 200=
+04
+
+(202) 727-2643
+
+muriel.bowser@dc.gov<mailto:muriel.bowser@dc.gov> | mayor.dc.gov<https://gc=
+c02.safelinks.protection.outlook.com/?url=3Dhttp%3A%2F%2Fvmm0dj30.r.us-west=
+-2.awstrack.me%2FL0%2Fhttp%3A%252F%252Fmayor.dc.gov%2F1%2F010101921149482d-=
+07173b28-c1bd-4b74-9268-ae81ed05429a-000000%2FxEGFYxhqD98xTaSDpJEL63MTURQ%3=
+D393&data=3D05%7C02%7Csirisha.pulivarthi%40dc.gov%7Cfc092ea1aec5462d509208d=
+cd9bac05d%7C8fe449f18b944fb799066f939da82d73%7C0%7C0%7C638624644467392407%7=
+CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwi=
+LCJXVCI6Mn0%3D%7C0%7C%7C%7C&sdata=3Dcx8jevv1U%2FZaqyNmyfdcurrt6KPlsEYnMMUMC=
+5aBrAg%3D&reserved=3D0> | @mayorbowser
+
+
+
+________________________________
+[DC Flag]<https://gcc02.safelinks.protection.outlook.com/?url=3Dhttp%3A%2F%=
+2Fvmm0dj30.r.us-west-2.awstrack.me%2FL0%2Fhttp%3A%252F%252Fdc.gov%2F1%2F010=
+101921149482d-07173b28-c1bd-4b74-9268-ae81ed05429a-000000%2FTUyNVWu86JTKL84=
+JbQbFEZBnLpA%3D393&data=3D05%7C02%7Csirisha.pulivarthi%40dc.gov%7Cfc092ea1a=
+ec5462d509208dcd9bac05d%7C8fe449f18b944fb799066f939da82d73%7C0%7C0%7C638624=
+644467404824%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLC=
+JBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C0%7C%7C%7C&sdata=3DKw4a7r7pWYtMDUv81eXV1w9ib=
+QXvrkULP5ozHkEFPgI%3D&reserved=3D0>
+STAY CONNECTED:
+[Visit us on Facebook]<https://gcc02.safelinks.protection.outlook.com/?url=
+=3Dhttps%3A%2F%2Fvmm0dj30.r.us-west-2.awstrack.me%2FL0%2Fhttps%3A%252F%252F=
+www.facebook.com%252FMayorMurielBowser%2F2%2F010101921149482d-07173b28-c1bd=
+-4b74-9268-ae81ed05429a-000000%2FKyvNPHz94EHIRdeenci1HZ-qgj4%3D393&data=3D0=
+5%7C02%7Csirisha.pulivarthi%40dc.gov%7Cfc092ea1aec5462d509208dcd9bac05d%7C8=
+fe449f18b944fb799066f939da82d73%7C0%7C0%7C638624644467416915%7CUnknown%7CTW=
+FpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3=
+D%7C0%7C%7C%7C&sdata=3DUd4hP6RMFWBIViQtnZyMhjeNJjWDvwi3Xo0a0sCr60Q%3D&reser=
+ved=3D0>
+[Visit us on X]<https://gcc02.safelinks.protection.outlook.com/?url=3Dhttps=
+%3A%2F%2Fvmm0dj30.r.us-west-2.awstrack.me%2FL0%2Fhttps%3A%252F%252Ftwitter.=
+com%252FMayorBowser%2F2%2F010101921149482d-07173b28-c1bd-4b74-9268-ae81ed05=
+429a-000000%2Fe-OnAq-WdJo8QxdJ9iS1NzReXSc%3D393&data=3D05%7C02%7Csirisha.pu=
+livarthi%40dc.gov%7Cfc092ea1aec5462d509208dcd9bac05d%7C8fe449f18b944fb79906=
+6f939da82d73%7C0%7C0%7C638624644467429047%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiM=
+C4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C0%7C%7C%7C&sdat=
+a=3DZvVmvcDJ7j4guW%2Fiq7of441vQ8Ij5oNc%2FuYs4So1POw%3D&reserved=3D0>
+[Instagram Logo]<https://gcc02.safelinks.protection.outlook.com/?url=3Dhttp=
+s%3A%2F%2Fvmm0dj30.r.us-west-2.awstrack.me%2FL0%2Fhttps%3A%252F%252Fwww.ins=
+tagram.com%252Fmayor_bowser%252F%2F2%2F010101921149482d-07173b28-c1bd-4b74-=
+9268-ae81ed05429a-000000%2FomnCa3IBc_92pmYOqQgWuVRWf7s%3D393&data=3D05%7C02=
+%7Csirisha.pulivarthi%40dc.gov%7Cfc092ea1aec5462d509208dcd9bac05d%7C8fe449f=
+18b944fb799066f939da82d73%7C0%7C0%7C638624644467441242%7CUnknown%7CTWFpbGZs=
+b3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C0%=
+7C%7C%7C&sdata=3DnB%2BlJcCpODS96APaMkO633KPPpyGEwE6mvBLRz9i8MM%3D&reserved=
+=3D0>
+ [Visit us on YouTube] <https://gcc02.safelinks.protection.outlook.com/?url=
+=3Dhttps%3A%2F%2Fvmm0dj30.r.us-west-2.awstrack.me%2FL0%2Fhttps%3A%252F%252F=
+www.youtube.com%252Fchannel%252FUCMPbW-rxSm1ke9PkqDZWO3g%2F1%2F010101921149=
+482d-07173b28-c1bd-4b74-9268-ae81ed05429a-000000%2F9CDo-GAcyTq8ugXh_jz9iUJT=
+S6g%3D393&data=3D05%7C02%7Csirisha.pulivarthi%40dc.gov%7Cfc092ea1aec5462d50=
+9208dcd9bac05d%7C8fe449f18b944fb799066f939da82d73%7C0%7C0%7C638624644467453=
+375%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1=
+haWwiLCJXVCI6Mn0%3D%7C0%7C%7C%7C&sdata=3DZgcoIYMT0YxLJ0DnGWO%2BsuVk1K%2Fltf=
+shK%2FBhqXKVjHo%3D&reserved=3D0>
+ [Sign up for email updates] <https://gcc02.safelinks.protection.outlook.co=
+m/?url=3Dhttps%3A%2F%2Fvmm0dj30.r.us-west-2.awstrack.me%2FL0%2Fhttps%3A%252=
+F%252Fpublic.govdelivery.com%252Faccounts%252FDCWASH%252Fsubscriber%252Fnew=
+%2F1%2F010101921149482d-07173b28-c1bd-4b74-9268-ae81ed05429a-000000%2FsLG4H=
+WSRlgko8seqD0uwkQoKC_w%3D393&data=3D05%7C02%7Csirisha.pulivarthi%40dc.gov%7=
+Cfc092ea1aec5462d509208dcd9bac05d%7C8fe449f18b944fb799066f939da82d73%7C0%7C=
+0%7C638624644467465325%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoi=
+V2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C0%7C%7C%7C&sdata=3Dkgd%2Bd6UmlI%2B=
+WU3WlttHk%2BcQmImfM32zhTDqGbRLgGIs%3D&reserved=3D0>
+Questions? Contact Us<https://gcc02.safelinks.protection.outlook.com/?url=
+=3Dhttp%3A%2F%2Fvmm0dj30.r.us-west-2.awstrack.me%2FL0%2Fhttp%3A%252F%252Fdc=
+.gov%252Fpage%252Ffeedback-complaints-and-appeals%2F1%2F010101921149482d-07=
+173b28-c1bd-4b74-9268-ae81ed05429a-000000%2FV80DVoWUG6HIzLdJHPBVpUTmKOo%3D3=
+93&data=3D05%7C02%7Csirisha.pulivarthi%40dc.gov%7Cfc092ea1aec5462d509208dcd=
+9bac05d%7C8fe449f18b944fb799066f939da82d73%7C0%7C0%7C638624644467477267%7CU=
+nknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLC=
+JXVCI6Mn0%3D%7C0%7C%7C%7C&sdata=3Dpr6b2cKaiW%2FkhRpfDlKCc2mnQOaSRk93zdo%2F3=
+QRN8vA%3D&reserved=3D0>
+[We are Washington DC]<https://gcc02.safelinks.protection.outlook.com/?url=
+=3Dhttp%3A%2F%2Fvmm0dj30.r.us-west-2.awstrack.me%2FL0%2Fhttp%3A%252F%252Fdc=
+.gov%2F2%2F010101921149482d-07173b28-c1bd-4b74-9268-ae81ed05429a-000000%2Fm=
+eDwDT--6rnFhmuFz-Rv53JBRFc%3D393&data=3D05%7C02%7Csirisha.pulivarthi%40dc.g=
+ov%7Cfc092ea1aec5462d509208dcd9bac05d%7C8fe449f18b944fb799066f939da82d73%7C=
+0%7C0%7C638624644467489245%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQ=
+IjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C0%7C%7C%7C&sdata=3Dw9Sce0Fi1iK=
+%2BeHI3iqGZHNdQl7aRy8o2Q0epqjIN6uY%3D&reserved=3D0>
+
+
+  Help<https://gcc02.safelinks.protection.outlook.com/?url=3Dhttps%3A%2F%2F=
+vmm0dj30.r.us-west-2.awstrack.me%2FL0%2Fhttps%3A%252F%252Fsubscriberhelp.go=
+vdelivery.com%252F%2F1%2F010101921149482d-07173b28-c1bd-4b74-9268-ae81ed054=
+29a-000000%2FQf3TTgyV928TwLhHA4fbKxv6bdU%3D393&data=3D05%7C02%7Csirisha.pul=
+ivarthi%40dc.gov%7Cfc092ea1aec5462d509208dcd9bac05d%7C8fe449f18b944fb799066=
+f939da82d73%7C0%7C0%7C638624644467501258%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC=
+4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C0%7C%7C%7C&sdata=
+=3Dd1Ji1lvKJBAZWWMQXpQPOU66irrbQop%2BNxE%2BBByWSQU%3D&reserved=3D0>
+
+
+
+
+
+--_000_BLAPR09MB6914C02CC730CD9D1CD14F82916C2BLAPR09MB6914namp_
+Content-Type: text/html; charset="Windows-1252"
+Content-Transfer-Encoding: quoted-printable
+
+<html xmlns:v=3D"urn:schemas-microsoft-com:vml" xmlns:o=3D"urn:schemas-micr=
+osoft-com:office:office" xmlns:w=3D"urn:schemas-microsoft-com:office:word" =
+xmlns:m=3D"http://schemas.microsoft.com/office/2004/12/omml" xmlns=3D"http:=
+//www.w3.org/TR/REC-html40">
+<head>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3DWindows-1=
+252">
+<meta name=3D"Generator" content=3D"Microsoft Word 15 (filtered medium)">
+<!--[if !mso]><style>v\:* {behavior:url(#default#VML);}
+o\:* {behavior:url(#default#VML);}
+w\:* {behavior:url(#default#VML);}
+.shape {behavior:url(#default#VML);}
+</style><![endif]-->
+<title>DC's Summer Recap</title>
+<style><!--
+/* Font Definitions */
+@font-face
+	{font-family:Helvetica;
+	panose-1:2 11 6 4 2 2 2 2 2 4;}
+@font-face
+	{font-family:Wingdings;
+	panose-1:5 0 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Cambria Math";
+	panose-1:2 4 5 3 5 4 6 3 2 4;}
+@font-face
+	{font-family:"Aptos Display";}
+@font-face
+	{font-family:Aptos;}
+@font-face
+	{font-family:"Century Gothic";
+	panose-1:2 11 5 2 2 2 2 2 2 4;}
+/* Style Definitions */
+p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin:0in;
+	font-size:12.0pt;
+	font-family:"Aptos",sans-serif;}
+h1
+	{mso-style-priority:9;
+	mso-style-link:"Heading 1 Char";
+	mso-margin-top-alt:auto;
+	margin-right:0in;
+	mso-margin-bottom-alt:auto;
+	margin-left:0in;
+	font-size:24.0pt;
+	font-family:"Aptos",sans-serif;
+	font-weight:bold;}
+h2
+	{mso-style-priority:9;
+	mso-style-link:"Heading 2 Char";
+	mso-margin-top-alt:auto;
+	margin-right:0in;
+	mso-margin-bottom-alt:auto;
+	margin-left:0in;
+	font-size:18.0pt;
+	font-family:"Aptos",sans-serif;
+	font-weight:bold;}
+a:link, span.MsoHyperlink
+	{mso-style-priority:99;
+	color:blue;
+	text-decoration:underline;}
+span.Heading1Char
+	{mso-style-name:"Heading 1 Char";
+	mso-style-priority:9;
+	mso-style-link:"Heading 1";
+	font-family:"Aptos Display",sans-serif;
+	color:#0F4761;}
+span.Heading2Char
+	{mso-style-name:"Heading 2 Char";
+	mso-style-priority:9;
+	mso-style-link:"Heading 2";
+	font-family:"Aptos Display",sans-serif;
+	color:#0F4761;}
+p.gdp, li.gdp, div.gdp
+	{mso-style-name:gd_p;
+	mso-margin-top-alt:auto;
+	margin-right:0in;
+	mso-margin-bottom-alt:auto;
+	margin-left:0in;
+	font-size:12.0pt;
+	font-family:"Aptos",sans-serif;}
+span.normaltextrun
+	{mso-style-name:normaltextrun;}
+span.eop
+	{mso-style-name:eop;}
+.MsoChpDefault
+	{mso-style-type:export-only;
+	font-size:10.0pt;
+	mso-ligatures:none;}
+@page WordSection1
+	{size:8.5in 11.0in;
+	margin:1.0in 1.0in 1.0in 1.0in;}
+div.WordSection1
+	{page:WordSection1;}
+/* List Definitions */
+@list l0
+	{mso-list-id:50271619;
+	mso-list-template-ids:-739078478;}
+@list l0:level1
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	mso-ansi-font-size:10.0pt;
+	font-family:Symbol;}
+@list l0:level2
+	{mso-level-number-format:bullet;
+	mso-level-text:o;
+	mso-level-tab-stop:1.0in;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	mso-ansi-font-size:10.0pt;
+	font-family:"Courier New";
+	mso-bidi-font-family:"Times New Roman";}
+@list l0:level3
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0A7;
+	mso-level-tab-stop:1.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	mso-ansi-font-size:10.0pt;
+	font-family:Wingdings;}
+@list l0:level4
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0A7;
+	mso-level-tab-stop:2.0in;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	mso-ansi-font-size:10.0pt;
+	font-family:Wingdings;}
+@list l0:level5
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0A7;
+	mso-level-tab-stop:2.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	mso-ansi-font-size:10.0pt;
+	font-family:Wingdings;}
+@list l0:level6
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0A7;
+	mso-level-tab-stop:3.0in;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	mso-ansi-font-size:10.0pt;
+	font-family:Wingdings;}
+@list l0:level7
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0A7;
+	mso-level-tab-stop:3.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	mso-ansi-font-size:10.0pt;
+	font-family:Wingdings;}
+@list l0:level8
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0A7;
+	mso-level-tab-stop:4.0in;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	mso-ansi-font-size:10.0pt;
+	font-family:Wingdings;}
+@list l0:level9
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0A7;
+	mso-level-tab-stop:4.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	mso-ansi-font-size:10.0pt;
+	font-family:Wingdings;}
+@list l1
+	{mso-list-id:1234268796;
+	mso-list-template-ids:-1480823278;}
+@list l1:level1
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	mso-ansi-font-size:10.0pt;
+	font-family:Symbol;}
+@list l1:level2
+	{mso-level-number-format:bullet;
+	mso-level-text:o;
+	mso-level-tab-stop:1.0in;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	mso-ansi-font-size:10.0pt;
+	font-family:"Courier New";
+	mso-bidi-font-family:"Times New Roman";}
+@list l1:level3
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0A7;
+	mso-level-tab-stop:1.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	mso-ansi-font-size:10.0pt;
+	font-family:Wingdings;}
+@list l1:level4
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0A7;
+	mso-level-tab-stop:2.0in;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	mso-ansi-font-size:10.0pt;
+	font-family:Wingdings;}
+@list l1:level5
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0A7;
+	mso-level-tab-stop:2.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	mso-ansi-font-size:10.0pt;
+	font-family:Wingdings;}
+@list l1:level6
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0A7;
+	mso-level-tab-stop:3.0in;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	mso-ansi-font-size:10.0pt;
+	font-family:Wingdings;}
+@list l1:level7
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0A7;
+	mso-level-tab-stop:3.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	mso-ansi-font-size:10.0pt;
+	font-family:Wingdings;}
+@list l1:level8
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0A7;
+	mso-level-tab-stop:4.0in;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	mso-ansi-font-size:10.0pt;
+	font-family:Wingdings;}
+@list l1:level9
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0A7;
+	mso-level-tab-stop:4.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	mso-ansi-font-size:10.0pt;
+	font-family:Wingdings;}
+@list l2
+	{mso-list-id:1421637663;
+	mso-list-template-ids:1108779286;}
+@list l2:level1
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	mso-ansi-font-size:10.0pt;
+	font-family:Symbol;}
+@list l2:level2
+	{mso-level-number-format:bullet;
+	mso-level-text:o;
+	mso-level-tab-stop:1.0in;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	mso-ansi-font-size:10.0pt;
+	font-family:"Courier New";
+	mso-bidi-font-family:"Times New Roman";}
+@list l2:level3
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0A7;
+	mso-level-tab-stop:1.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	mso-ansi-font-size:10.0pt;
+	font-family:Wingdings;}
+@list l2:level4
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0A7;
+	mso-level-tab-stop:2.0in;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	mso-ansi-font-size:10.0pt;
+	font-family:Wingdings;}
+@list l2:level5
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0A7;
+	mso-level-tab-stop:2.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	mso-ansi-font-size:10.0pt;
+	font-family:Wingdings;}
+@list l2:level6
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0A7;
+	mso-level-tab-stop:3.0in;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	mso-ansi-font-size:10.0pt;
+	font-family:Wingdings;}
+@list l2:level7
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0A7;
+	mso-level-tab-stop:3.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	mso-ansi-font-size:10.0pt;
+	font-family:Wingdings;}
+@list l2:level8
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0A7;
+	mso-level-tab-stop:4.0in;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	mso-ansi-font-size:10.0pt;
+	font-family:Wingdings;}
+@list l2:level9
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0A7;
+	mso-level-tab-stop:4.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	mso-ansi-font-size:10.0pt;
+	font-family:Wingdings;}
+@list l3
+	{mso-list-id:1488011019;
+	mso-list-template-ids:1909111798;}
+@list l3:level1
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	mso-ansi-font-size:10.0pt;
+	font-family:Symbol;}
+@list l3:level2
+	{mso-level-number-format:bullet;
+	mso-level-text:o;
+	mso-level-tab-stop:1.0in;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	mso-ansi-font-size:10.0pt;
+	font-family:"Courier New";
+	mso-bidi-font-family:"Times New Roman";}
+@list l3:level3
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0A7;
+	mso-level-tab-stop:1.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	mso-ansi-font-size:10.0pt;
+	font-family:Wingdings;}
+@list l3:level4
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0A7;
+	mso-level-tab-stop:2.0in;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	mso-ansi-font-size:10.0pt;
+	font-family:Wingdings;}
+@list l3:level5
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0A7;
+	mso-level-tab-stop:2.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	mso-ansi-font-size:10.0pt;
+	font-family:Wingdings;}
+@list l3:level6
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0A7;
+	mso-level-tab-stop:3.0in;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	mso-ansi-font-size:10.0pt;
+	font-family:Wingdings;}
+@list l3:level7
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0A7;
+	mso-level-tab-stop:3.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	mso-ansi-font-size:10.0pt;
+	font-family:Wingdings;}
+@list l3:level8
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0A7;
+	mso-level-tab-stop:4.0in;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	mso-ansi-font-size:10.0pt;
+	font-family:Wingdings;}
+@list l3:level9
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0A7;
+	mso-level-tab-stop:4.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	mso-ansi-font-size:10.0pt;
+	font-family:Wingdings;}
+@list l4
+	{mso-list-id:2048987539;
+	mso-list-template-ids:-200139740;}
+@list l4:level1
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	mso-ansi-font-size:10.0pt;
+	font-family:Symbol;}
+@list l4:level2
+	{mso-level-number-format:bullet;
+	mso-level-text:o;
+	mso-level-tab-stop:1.0in;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	mso-ansi-font-size:10.0pt;
+	font-family:"Courier New";
+	mso-bidi-font-family:"Times New Roman";}
+@list l4:level3
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0A7;
+	mso-level-tab-stop:1.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	mso-ansi-font-size:10.0pt;
+	font-family:Wingdings;}
+@list l4:level4
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0A7;
+	mso-level-tab-stop:2.0in;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	mso-ansi-font-size:10.0pt;
+	font-family:Wingdings;}
+@list l4:level5
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0A7;
+	mso-level-tab-stop:2.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	mso-ansi-font-size:10.0pt;
+	font-family:Wingdings;}
+@list l4:level6
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0A7;
+	mso-level-tab-stop:3.0in;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	mso-ansi-font-size:10.0pt;
+	font-family:Wingdings;}
+@list l4:level7
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0A7;
+	mso-level-tab-stop:3.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	mso-ansi-font-size:10.0pt;
+	font-family:Wingdings;}
+@list l4:level8
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0A7;
+	mso-level-tab-stop:4.0in;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	mso-ansi-font-size:10.0pt;
+	font-family:Wingdings;}
+@list l4:level9
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0A7;
+	mso-level-tab-stop:4.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	mso-ansi-font-size:10.0pt;
+	font-family:Wingdings;}
+ol
+	{margin-bottom:0in;}
+ul
+	{margin-bottom:0in;}
+--></style><!--[if gte mso 9]><xml>
+<o:shapedefaults v:ext=3D"edit" spidmax=3D"1026" />
+</xml><![endif]--><!--[if gte mso 9]><xml>
+<o:shapelayout v:ext=3D"edit">
+<o:idmap v:ext=3D"edit" data=3D"1" />
+</o:shapelayout></xml><![endif]-->
+</head>
+<body lang=3D"EN-US" link=3D"blue" vlink=3D"purple" style=3D"word-wrap:brea=
+k-word">
+<div class=3D"WordSection1">
+<p class=3D"MsoNormal"><o:p>&nbsp;</o:p></p>
+<div align=3D"center">
+<table class=3D"MsoNormalTable" border=3D"0" cellspacing=3D"0" cellpadding=
+=3D"0" width=3D"700" style=3D"width:525.0pt">
+<tbody>
+<tr>
+<td style=3D"padding:0in 0in 0in 0in">
+<table class=3D"MsoNormalTable" border=3D"0" cellspacing=3D"3" cellpadding=
+=3D"0">
+<tbody>
+<tr>
+<td style=3D"padding:.75pt .75pt .75pt .75pt"><a name=3D"gd_top"></a></td>
+<span style=3D"mso-bookmark:gd_top"></span>
+</tr>
+</tbody>
+</table>
+<span style=3D"mso-bookmark:gd_top"></span>
+<div class=3D"MsoNormal" align=3D"center" style=3D"text-align:center"><span=
+ style=3D"mso-bookmark:gd_top">
+<hr size=3D"1" width=3D"100%" align=3D"center">
+</span></div>
+<span style=3D"mso-bookmark:gd_top"></span>
+<div align=3D"center">
+<table class=3D"MsoNormalTable" border=3D"0" cellspacing=3D"0" cellpadding=
+=3D"0" width=3D"100%" style=3D"width:100.0%" id=3D"gd_ab_main_tab">
+<tbody>
+<tr style=3D"background-position-x:0%;background-position-y:0%">
+<td width=3D"100%" style=3D"width:100.0%;background:#ECF5E9;padding:0in 0in=
+ 0in 0in" id=3D"gd_ab_header">
+<div align=3D"center">
+<table class=3D"MsoNormalTable" border=3D"0" cellspacing=3D"0" cellpadding=
+=3D"0" width=3D"600" style=3D"width:6.25in;border-collapse:collapse;backgro=
+und-position-x:0%;background-position-y:0%">
+<tbody>
+<tr>
+<td valign=3D"top" style=3D"background:#F3C207;padding:0in 0in 0in 0in;back=
+ground-position-x:0%;background-position-y:0%">
+<div align=3D"center">
+<table class=3D"MsoNormalTable" border=3D"0" cellspacing=3D"0" cellpadding=
+=3D"0" width=3D"100%" style=3D"width:100.0%;border-collapse:collapse;backgr=
+ound-position-x:0%;background-position-y:0%">
+<tbody>
+<tr style=3D"height:2.25pt">
+<td width=3D"100%" valign=3D"top" style=3D"width:100.0%;padding:0in 0in 0in=
+ 0in;height:2.25pt">
+<p class=3D"MsoNormal"><span style=3D"mso-bookmark:gd_top"><img width=3D"2"=
+ height=3D"3" style=3D"width:.0208in;height:.0277in" id=3D"_x0000_i1055" sr=
+c=3D"http://content.govdelivery.com/attachments/fancy_images/stock/2011/03/=
+12358/green-header-hr_original.gif?1308456195"><o:p></o:p></span></p>
+</td>
+<span style=3D"mso-bookmark:gd_top"></span>
+</tr>
+</tbody>
+</table>
+</div>
+<p class=3D"MsoNormal"><span style=3D"color:black"><img width=3D"600" heigh=
+t=3D"138" style=3D"width:6.25in;height:1.4375in" id=3D"_x0000_i1054" src=3D=
+"https://content.govdelivery.com/attachments/fancy_images/DCWASH/2017/03/12=
+52064/1249919/mmb-newsletter-banner-march-2017-01_crop.jpg" alt=3D"Newslett=
+er Banner"></span><o:p></o:p></p>
+</td>
+</tr>
+<tr>
+<td valign=3D"top" style=3D"padding:0in 0in 0in 0in" id=3D"gd_ab_sidebar_co=
+l">
+<table class=3D"MsoNormalTable" border=3D"0" cellspacing=3D"0" cellpadding=
+=3D"0" width=3D"600" style=3D"width:6.25in;border-collapse:collapse">
+<tbody>
+<tr>
+<td width=3D"190" valign=3D"top" style=3D"width:142.5pt;background:#DAF0D1;=
+padding:11.25pt 1.5pt 11.25pt 1.5pt">
+<table class=3D"MsoNormalTable" border=3D"0" cellspacing=3D"0" cellpadding=
+=3D"0" width=3D"100%" style=3D"width:100.0%;border-collapse:collapse">
+<tbody>
+<tr>
+<td width=3D"40" valign=3D"top" style=3D"width:30.0pt;padding:0in 2.25pt 0i=
+n 0in">
+<p class=3D"MsoNormal"><a href=3D"https://gcc02.safelinks.protection.outloo=
+k.com/?url=3Dhttps%3A%2F%2Fvmm0dj30.r.us-west-2.awstrack.me%2FL0%2Fhttps%3A=
+%252F%252Ftwitter.com%252FMayorBowser%2F1%2F010101921149482d-07173b28-c1bd-=
+4b74-9268-ae81ed05429a-000000%2FVvVdbOw-9fvIM8C7yjTEn6_5bH4%3D393&amp;data=
+=3D05%7C02%7Csirisha.pulivarthi%40dc.gov%7Cfc092ea1aec5462d509208dcd9bac05d=
+%7C8fe449f18b944fb799066f939da82d73%7C0%7C0%7C638624644467283489%7CUnknown%=
+7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6M=
+n0%3D%7C0%7C%7C%7C&amp;sdata=3Du2lNTIUaYX054cQE8KO64l%2FmeaN6zUwdAXpmJKiwuV=
+Q%3D&amp;reserved=3D0" originalsrc=3D"https://vmm0dj30.r.us-west-2.awstrack=
+.me/L0/https:%2F%2Ftwitter.com%2FMayorBowser/1/010101921149482d-07173b28-c1=
+bd-4b74-9268-ae81ed05429a-000000/VvVdbOw-9fvIM8C7yjTEn6_5bH4=3D393" shash=
+=3D"J8z2Ql2HwtY2nFPkXmlLdOOYBxlmsyn5V7iEKBPIrTLCsL8XNGeA1ruTH+Vs8gVmthsvqSg=
+2sbaD3TlbCu3ogJMUFx/Wh9yCsBPtE8fOgDcXXjdRBL+cfVNiGa5CdLImhdTvB9jOcuS2ZJVrvt=
+nYnn5L91iF2dBIBPMUeebS7cA=3D" target=3D"_blank"><span style=3D"color:#1D578=
+2;text-decoration:none"><img border=3D"0" width=3D"40" height=3D"40" style=
+=3D"width:.4166in;height:.4166in" id=3D"_x0000_i1053" src=3D"https://conten=
+t.govdelivery.com/attachments/fancy_images/DCWASH/2024/01/8775144/x-4x4_ori=
+ginal.png" alt=3D"X-logo-4x4"></span></a><o:p></o:p></p>
+</td>
+<td width=3D"4" valign=3D"top" style=3D"width:3.0pt;padding:0in 0in 0in 0in=
+"></td>
+<td valign=3D"top" style=3D"padding:0in 0in 0in 0in">
+<p style=3D"margin-bottom:2.25pt"><span style=3D"font-size:10.0pt;font-fami=
+ly:&quot;Helvetica&quot;,sans-serif;color:#676767">&nbsp;<o:p></o:p></span>=
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p class=3D"MsoNormal"><span style=3D"display:none"><o:p>&nbsp;</o:p></span=
+></p>
+<table class=3D"MsoNormalTable" border=3D"0" cellspacing=3D"0" cellpadding=
+=3D"0" width=3D"100%" style=3D"width:100.0%;border-collapse:collapse">
+<tbody>
+<tr>
+<td width=3D"40" valign=3D"top" style=3D"width:30.0pt;padding:0in 2.25pt 0i=
+n 0in">
+<p class=3D"MsoNormal"><a href=3D"https://gcc02.safelinks.protection.outloo=
+k.com/?url=3Dhttps%3A%2F%2Fvmm0dj30.r.us-west-2.awstrack.me%2FL0%2Fhttps%3A=
+%252F%252Fwww.facebook.com%252FMayorMurielBowser%2F1%2F010101921149482d-071=
+73b28-c1bd-4b74-9268-ae81ed05429a-000000%2FUflR4e9JWj_h2KWP-1wzNN7HfQ0%3D39=
+3&amp;data=3D05%7C02%7Csirisha.pulivarthi%40dc.gov%7Cfc092ea1aec5462d509208=
+dcd9bac05d%7C8fe449f18b944fb799066f939da82d73%7C0%7C0%7C638624644467302858%=
+7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWw=
+iLCJXVCI6Mn0%3D%7C0%7C%7C%7C&amp;sdata=3DfwEyzOrP%2BQr1wITL9VG14gulur5papV6=
+BsmNgdnwhqE%3D&amp;reserved=3D0" originalsrc=3D"https://vmm0dj30.r.us-west-=
+2.awstrack.me/L0/https:%2F%2Fwww.facebook.com%2FMayorMurielBowser/1/0101019=
+21149482d-07173b28-c1bd-4b74-9268-ae81ed05429a-000000/UflR4e9JWj_h2KWP-1wzN=
+N7HfQ0=3D393" shash=3D"K4NoNm/Yz9PtPadSpA4pA7KeJwJ67NXydgWdaY0StFXmxUiFPFKR=
+2oyEI2VpDeorjQDA3QOhtVmSGnZuVyFpLCxz9ya3KS0DWZvPGqMizoSnpEiwDaZQzZJa9h9qjtp=
+5H56Fs9Gjs8HeFxbphzPrBFKwpWcp3RLbIEOp8dgO2YI=3D" target=3D"_blank"><span st=
+yle=3D"color:#1D5782;text-decoration:none"><img border=3D"0" width=3D"40" h=
+eight=3D"40" style=3D"width:.4166in;height:.4166in" id=3D"_x0000_i1052" src=
+=3D"https://content.govdelivery.com/attachments/fancy_images/DCWASH/2024/01=
+/8775145/fb-4x4_original.png" alt=3D"FB-logo-40x40"></span></a><o:p></o:p><=
+/p>
+</td>
+<td width=3D"4" valign=3D"top" style=3D"width:3.0pt;padding:0in 0in 0in 0in=
+"></td>
+<td valign=3D"top" style=3D"padding:0in 0in 0in 0in">
+<p style=3D"margin-bottom:2.25pt"><span style=3D"font-size:10.0pt;font-fami=
+ly:&quot;Helvetica&quot;,sans-serif;color:#676767">&nbsp;<o:p></o:p></span>=
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p class=3D"MsoNormal"><span style=3D"display:none"><o:p>&nbsp;</o:p></span=
+></p>
+<table class=3D"MsoNormalTable" border=3D"0" cellspacing=3D"0" cellpadding=
+=3D"0" width=3D"100%" style=3D"width:100.0%;border-collapse:collapse">
+<tbody>
+<tr>
+<td width=3D"40" valign=3D"top" style=3D"width:30.0pt;padding:0in 2.25pt 0i=
+n 0in">
+<p class=3D"MsoNormal"><a href=3D"https://gcc02.safelinks.protection.outloo=
+k.com/?url=3Dhttps%3A%2F%2Fvmm0dj30.r.us-west-2.awstrack.me%2FL0%2Fhttps%3A=
+%252F%252Fwww.instagram.com%252Fmayor_bowser%252F%2F1%2F010101921149482d-07=
+173b28-c1bd-4b74-9268-ae81ed05429a-000000%2F1yM1U9y9Aezke0nGY0EPc3r-ofE%3D3=
+93&amp;data=3D05%7C02%7Csirisha.pulivarthi%40dc.gov%7Cfc092ea1aec5462d50920=
+8dcd9bac05d%7C8fe449f18b944fb799066f939da82d73%7C0%7C0%7C638624644467315729=
+%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haW=
+wiLCJXVCI6Mn0%3D%7C0%7C%7C%7C&amp;sdata=3DDNQYqxtF5qxS%2FQ%2Bxnrf36lIhOu%2F=
+VdMNVH1sZGEnhogw%3D&amp;reserved=3D0" originalsrc=3D"https://vmm0dj30.r.us-=
+west-2.awstrack.me/L0/https:%2F%2Fwww.instagram.com%2Fmayor_bowser%2F/1/010=
+101921149482d-07173b28-c1bd-4b74-9268-ae81ed05429a-000000/1yM1U9y9Aezke0nGY=
+0EPc3r-ofE=3D393" shash=3D"Lygy5jSTLsqhci2MPdnoI2m3Qv/l8o026lN1NiaR+rkGi8u5=
+hz92IPAdpdIrljqHCAi+5IPLk6OiCOrLhfLETdHc2fJg1fk9HHhPBVJHGDJk2bojLgy+LDyoh0n=
+PR6hW5TURkxcTJ5Krr17yYqVNK33b3gXpIWwM42TECABbUQU=3D" target=3D"_blank"><spa=
+n style=3D"color:#1D5782;text-decoration:none"><img border=3D"0" width=3D"4=
+0" height=3D"40" style=3D"width:.4166in;height:.4166in" id=3D"_x0000_i1051"=
+ src=3D"https://content.govdelivery.com/attachments/fancy_images/DCWASH/202=
+4/01/8775146/ig-4x4_original.png" alt=3D"IG-logo-40x40"></span></a><o:p></o=
+:p></p>
+</td>
+<td width=3D"4" valign=3D"top" style=3D"width:3.0pt;padding:0in 0in 0in 0in=
+"></td>
+<td valign=3D"top" style=3D"padding:0in 0in 0in 0in">
+<p style=3D"margin-bottom:2.25pt"><span style=3D"font-size:10.0pt;font-fami=
+ly:&quot;Helvetica&quot;,sans-serif;color:#676767">&nbsp;<o:p></o:p></span>=
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p class=3D"MsoNormal"><span style=3D"display:none"><o:p>&nbsp;</o:p></span=
+></p>
+<div align=3D"center">
+<table class=3D"MsoNormalTable" border=3D"0" cellspacing=3D"0" cellpadding=
+=3D"0" width=3D"100%" style=3D"width:100.0%;border-collapse:collapse">
+<tbody>
+<tr style=3D"height:.75pt;background-position-x:0%;background-position-y:0%=
+">
+<td width=3D"100%" valign=3D"top" style=3D"width:100.0%;padding:3.75pt 0in =
+3.75pt 0in;height:.75pt">
+<p class=3D"MsoNormal"><img border=3D"0" width=3D"3" height=3D"1" style=3D"=
+width:.0277in;height:.0069in" id=3D"_x0000_i1050" src=3D"http://content.gov=
+delivery.com/attachments/fancy_images/stock/2011/03/12370/a-white-dotted-li=
+ne_original.gif?1308456206"><o:p></o:p></p>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+<p class=3D"gdp" style=3D"margin-bottom:2.25pt"><span style=3D"font-size:10=
+.0pt;font-family:&quot;Helvetica&quot;,sans-serif;color:#676767">&nbsp;<o:p=
+></o:p></span></p>
+<p class=3D"gdp" style=3D"margin-bottom:2.25pt"><span style=3D"font-size:10=
+.0pt;font-family:&quot;Helvetica&quot;,sans-serif;color:#676767">&nbsp;<o:p=
+></o:p></span></p>
+<h2 style=3D"mso-margin-top-alt:3.75pt;margin-right:0in;margin-bottom:2.25p=
+t;margin-left:0in">
+<span style=3D"font-size:10.5pt;font-family:&quot;Arial&quot;,sans-serif;co=
+lor:#323232">John A. Wilson Building<o:p></o:p></span></h2>
+<h2 style=3D"mso-margin-top-alt:3.75pt;margin-right:0in;margin-bottom:2.25p=
+t;margin-left:0in">
+<span style=3D"font-size:10.5pt;font-family:&quot;Arial&quot;,sans-serif;co=
+lor:#323232">1350 Pennsylvania Avenue, NW, Washington, DC 20004<o:p></o:p><=
+/span></h2>
+<p class=3D"gdp" style=3D"margin-bottom:2.25pt"><span style=3D"font-size:10=
+.0pt;font-family:&quot;Helvetica&quot;,sans-serif;color:#676767">&nbsp;<o:p=
+></o:p></span></p>
+<p class=3D"gdp" style=3D"margin-bottom:2.25pt"><span style=3D"font-size:10=
+.0pt;font-family:&quot;Helvetica&quot;,sans-serif;color:#676767">Phone: (20=
+2) 727-2643<br>
+Email:&nbsp;<a href=3D"mailto:muriel.bowser@dc.gov"><span style=3D"color:#3=
+29622">muriel.bowser@dc.gov</span></a><o:p></o:p></span></p>
+<p class=3D"gdp" style=3D"margin-bottom:2.25pt"><span style=3D"font-size:10=
+.0pt;font-family:&quot;Helvetica&quot;,sans-serif;color:#676767">Chief of S=
+taff:<br>
+<a href=3D"mailto:lindsey@dc.gov" target=3D"_blank"><span style=3D"color:#3=
+29622">Lindsey Parker</span></a><o:p></o:p></span></p>
+<p class=3D"gdp" style=3D"margin-bottom:2.25pt"><span style=3D"font-size:10=
+.0pt;font-family:&quot;Helvetica&quot;,sans-serif;color:#676767">City Admin=
+istrator:<br>
+<a href=3D"mailto:kevin.donahue@dc.gov" target=3D"_blank"><span style=3D"co=
+lor:#329622">Kevin Donahue</span></a><o:p></o:p></span></p>
+<p class=3D"gdp" style=3D"margin-bottom:2.25pt"><span style=3D"font-size:10=
+.0pt;font-family:&quot;Helvetica&quot;,sans-serif;color:#676767">Director o=
+f the Mayor's Office of Legal Counsel:<br>
+<a href=3D"mailto:eugene.adams@dc.gov" target=3D"_blank"><span style=3D"col=
+or:#329622">Eugene Adams</span></a><o:p></o:p></span></p>
+<p class=3D"gdp" style=3D"margin-bottom:2.25pt"><span style=3D"font-size:10=
+.0pt;font-family:&quot;Helvetica&quot;,sans-serif;color:#676767">Senior Adv=
+isor:<br>
+<a href=3D"mailto:beverly.perry@dc.gov"><span style=3D"color:#329622">Bever=
+ly Perry</span></a><o:p></o:p></span></p>
+<p class=3D"gdp" style=3D"margin-bottom:2.25pt"><span style=3D"font-size:10=
+.0pt;font-family:&quot;Helvetica&quot;,sans-serif;color:#676767">Director o=
+f Mayor's Office of Community Affairs:<br>
+<a href=3D"mailto:jackie.reyes@dc.gov" target=3D"_blank"><span style=3D"col=
+or:#329622">Jackie Reyes-Yanes</span></a><o:p></o:p></span></p>
+<p class=3D"gdp" style=3D"margin-bottom:2.25pt"><span style=3D"font-size:10=
+.0pt;font-family:&quot;Helvetica&quot;,sans-serif;color:#676767">Scheduling=
+ Requests:<br>
+<a href=3D"https://gcc02.safelinks.protection.outlook.com/?url=3Dhttp%3A%2F=
+%2Fvmm0dj30.r.us-west-2.awstrack.me%2FL0%2Fhttp%3A%252F%252Fmayor.dc.gov%25=
+2Fpage%252Finvite-mayor%2F1%2F010101921149482d-07173b28-c1bd-4b74-9268-ae81=
+ed05429a-000000%2FTVSq2SX39ZQ1-IeD98Df_yYOqWA%3D393&amp;data=3D05%7C02%7Csi=
+risha.pulivarthi%40dc.gov%7Cfc092ea1aec5462d509208dcd9bac05d%7C8fe449f18b94=
+4fb799066f939da82d73%7C0%7C0%7C638624644467328108%7CUnknown%7CTWFpbGZsb3d8e=
+yJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C0%7C%7C=
+%7C&amp;sdata=3DqtD1pJ9V8NqNi8fR%2B3Y17bumCcLrOkt0dHlaqtcUaUo%3D&amp;reserv=
+ed=3D0" originalsrc=3D"http://vmm0dj30.r.us-west-2.awstrack.me/L0/http:%2F%=
+2Fmayor.dc.gov%2Fpage%2Finvite-mayor/1/010101921149482d-07173b28-c1bd-4b74-=
+9268-ae81ed05429a-000000/TVSq2SX39ZQ1-IeD98Df_yYOqWA=3D393" shash=3D"REE4RO=
+5tTlde1W8fVF0n6KkUm9xZOir3acw7MD+u8NDYaU/itM50tbFLkBL0glCgsq6C7EKO+tmS4tlx/=
+uEJfZRmcIlPFzJuCCxhrHJR4lvzbdqikHOZ95kLaD0uUh25ipjxuRSsvX1wUP3dABxKwIajYIOH=
+CL5fkWOGNiohN64=3D"><span style=3D"color:#329622">mayor.dc.gov/page/invite-=
+mayor</span></a><o:p></o:p></span></p>
+<p class=3D"gdp" style=3D"margin-bottom:2.25pt"><span style=3D"font-size:10=
+.0pt;font-family:&quot;Helvetica&quot;,sans-serif;color:#676767">&nbsp;<o:p=
+></o:p></span></p>
+<p class=3D"gdp" style=3D"margin-bottom:2.25pt"><span style=3D"font-size:10=
+.0pt;font-family:&quot;Helvetica&quot;,sans-serif;color:#676767">&nbsp;<o:p=
+></o:p></span></p>
+<p class=3D"gdp" style=3D"margin-bottom:2.25pt"><span style=3D"font-size:10=
+.0pt;font-family:&quot;Helvetica&quot;,sans-serif;color:#676767">&nbsp;<o:p=
+></o:p></span></p>
+<p class=3D"gdp" style=3D"margin-bottom:2.25pt"><span style=3D"font-size:10=
+.0pt;font-family:&quot;Helvetica&quot;,sans-serif;color:#676767">&nbsp;<o:p=
+></o:p></span></p>
+<p class=3D"gdp" style=3D"margin-bottom:2.25pt"><span style=3D"font-size:10=
+.0pt;font-family:&quot;Helvetica&quot;,sans-serif;color:#676767">&nbsp;<o:p=
+></o:p></span></p>
+<p class=3D"gdp" style=3D"margin-bottom:2.25pt"><span style=3D"font-size:10=
+.0pt;font-family:&quot;Helvetica&quot;,sans-serif;color:#676767">&nbsp;<o:p=
+></o:p></span></p>
+<p class=3D"gdp" style=3D"margin-bottom:2.25pt"><span style=3D"font-size:10=
+.0pt;font-family:&quot;Helvetica&quot;,sans-serif;color:#676767">&nbsp;<o:p=
+></o:p></span></p>
+<p class=3D"gdp" style=3D"margin-bottom:2.25pt"><span style=3D"font-size:10=
+.0pt;font-family:&quot;Helvetica&quot;,sans-serif;color:#676767">&nbsp;<o:p=
+></o:p></span></p>
+<p class=3D"gdp" style=3D"margin-bottom:2.25pt"><span style=3D"font-size:10=
+.0pt;font-family:&quot;Helvetica&quot;,sans-serif;color:#676767">&nbsp;<o:p=
+></o:p></span></p>
+<p class=3D"gdp" style=3D"margin-bottom:2.25pt"><span style=3D"font-size:10=
+.0pt;font-family:&quot;Helvetica&quot;,sans-serif;color:#676767">&nbsp;<o:p=
+></o:p></span></p>
+<p class=3D"gdp" style=3D"margin-bottom:2.25pt"><span style=3D"font-size:10=
+.0pt;font-family:&quot;Helvetica&quot;,sans-serif;color:#676767">&nbsp;<o:p=
+></o:p></span></p>
+<p class=3D"gdp" style=3D"margin-bottom:2.25pt"><span style=3D"font-size:10=
+.0pt;font-family:&quot;Helvetica&quot;,sans-serif;color:#676767">&nbsp;<o:p=
+></o:p></span></p>
+<p class=3D"gdp" style=3D"margin-bottom:2.25pt"><span style=3D"font-size:10=
+.0pt;font-family:&quot;Helvetica&quot;,sans-serif;color:#676767">&nbsp;<o:p=
+></o:p></span></p>
+<p class=3D"gdp" style=3D"margin-bottom:2.25pt"><span style=3D"font-size:10=
+.0pt;font-family:&quot;Helvetica&quot;,sans-serif;color:#676767">&nbsp;<o:p=
+></o:p></span></p>
+<p class=3D"gdp" style=3D"margin-bottom:2.25pt"><span style=3D"font-size:10=
+.0pt;font-family:&quot;Helvetica&quot;,sans-serif;color:#676767">&nbsp;<o:p=
+></o:p></span></p>
+<p class=3D"gdp" style=3D"margin-bottom:2.25pt"><span style=3D"font-size:10=
+.0pt;font-family:&quot;Helvetica&quot;,sans-serif;color:#676767">&nbsp;<o:p=
+></o:p></span></p>
+<p class=3D"gdp" style=3D"margin-bottom:2.25pt"><span style=3D"font-size:10=
+.0pt;font-family:&quot;Helvetica&quot;,sans-serif;color:#676767">&nbsp;<o:p=
+></o:p></span></p>
+<p class=3D"gdp" style=3D"margin-bottom:2.25pt"><span style=3D"font-size:10=
+.0pt;font-family:&quot;Helvetica&quot;,sans-serif;color:#676767">&nbsp;<o:p=
+></o:p></span></p>
+<p class=3D"gdp" style=3D"margin-bottom:2.25pt"><span style=3D"font-size:10=
+.0pt;font-family:&quot;Helvetica&quot;,sans-serif;color:#676767">&nbsp;<o:p=
+></o:p></span></p>
+</td>
+<td width=3D"410" valign=3D"top" style=3D"width:307.5pt;background:white;pa=
+dding:15.0pt 15.0pt 15.0pt 15.0pt" id=3D"gd_ab_main_col">
+<h1 style=3D"mso-margin-top-alt:0in;margin-right:0in;margin-bottom:3.75pt;m=
+argin-left:0in">
+<span style=3D"font-size:15.0pt;font-family:&quot;Century Gothic&quot;,sans=
+-serif;color:black">September 20, 2024</span><span style=3D"font-size:15.0p=
+t;font-family:&quot;Century Gothic&quot;,sans-serif"><o:p></o:p></span></h1=
+>
+<h1 style=3D"mso-margin-top-alt:0in;margin-right:0in;margin-bottom:3.75pt;m=
+argin-left:0in">
+<span style=3D"font-size:15.0pt;font-family:&quot;Century Gothic&quot;,sans=
+-serif;color:black">Letter from the Mayor</span><span style=3D"font-size:15=
+.0pt;font-family:&quot;Century Gothic&quot;,sans-serif"><o:p></o:p></span><=
+/h1>
+<p style=3D"margin-bottom:3.75pt"><span style=3D"font-size:10.0pt;font-fami=
+ly:&quot;Helvetica&quot;,sans-serif;color:black">Dear Washingtonians,</span=
+><span style=3D"font-size:10.0pt;font-family:&quot;Helvetica&quot;,sans-ser=
+if"><o:p></o:p></span></p>
+<p style=3D"margin-bottom:3.75pt"><span style=3D"font-size:10.0pt;font-fami=
+ly:&quot;Helvetica&quot;,sans-serif;color:black">As we approach the officia=
+l last day of summer, I want to take a moment to thank the many people in o=
+ur community=97DPR and MBSYEP staff, parents and
+ guardians, local businesses and community organizations, and so many more=
+=97for your dedication to making this a fun, productive, and enriching summ=
+er for our city's youngest residents.</span><span style=3D"font-size:10.0pt=
+;font-family:&quot;Helvetica&quot;,sans-serif"><o:p></o:p></span></p>
+<p style=3D"margin-bottom:3.75pt"><span style=3D"font-size:10.0pt;font-fami=
+ly:&quot;Helvetica&quot;,sans-serif;color:black">Here=92s a look at just so=
+me of what we achieved together this summer:</span><span style=3D"font-size=
+:10.0pt;font-family:&quot;Helvetica&quot;,sans-serif"><o:p></o:p></span></p=
+>
+<ul type=3D"disc">
+<li class=3D"MsoNormal" style=3D"mso-margin-top-alt:auto;margin-bottom:3.75=
+pt;mso-list:l3 level1 lfo1">
+<strong><span style=3D"font-size:10.0pt;font-family:&quot;Helvetica&quot;,s=
+ans-serif;color:black">11,885 young Washingtonians</span></strong><span sty=
+le=3D"font-size:10.0pt;font-family:&quot;Helvetica&quot;,sans-serif;color:b=
+lack"> gained meaningful work experience through the Mayor
+ Marion S. Barry Summer Youth Employment Program. Thank you to the nearly 8=
+00 job sites that opened their doors, offering mentorship, skill-building, =
+and real-world opportunities to our participants.</span><span style=3D"font=
+-size:10.0pt;font-family:&quot;Helvetica&quot;,sans-serif"><o:p></o:p></spa=
+n></li><li class=3D"MsoNormal" style=3D"mso-margin-top-alt:auto;mso-margin-=
+bottom-alt:auto;mso-list:l3 level1 lfo1">
+<strong><span style=3D"font-size:10.0pt;font-family:&quot;Helvetica&quot;,s=
+ans-serif;color:black">4,468 campers
+</span></strong><span style=3D"font-size:10.0pt;font-family:&quot;Helvetica=
+&quot;,sans-serif;color:black">ages 3 through 16 had fun exploring, being c=
+reative, and building lasting memories at Department of Parks and Recreatio=
+n summer camps. Thank you to our dedicated counselors,
+ staff, and program leaders who helped us offer nearly 12,000 camp slots th=
+roughout the summer!</span><span style=3D"font-size:10.0pt;font-family:&quo=
+t;Helvetica&quot;,sans-serif"><o:p></o:p></span></li><li class=3D"MsoNormal=
+" style=3D"mso-margin-top-alt:auto;margin-bottom:3.75pt;mso-list:l3 level1 =
+lfo1">
+<strong><span style=3D"font-size:10.0pt;font-family:&quot;Helvetica&quot;,s=
+ans-serif;color:black">189 summer meal sites</span></strong><span style=3D"=
+font-size:10.0pt;font-family:&quot;Helvetica&quot;,sans-serif;color:black">=
+ served tens of thousands of nutritious meals to children
+ across all eight wards through the DC Youth Meals Program. Thank you to OS=
+SE, community groups, and partner agencies for another successful summer me=
+als program.&nbsp;</span><span style=3D"font-size:10.0pt;font-family:&quot;=
+Helvetica&quot;,sans-serif"><o:p></o:p></span></li><li class=3D"MsoNormal" =
+style=3D"mso-margin-top-alt:auto;margin-bottom:3.75pt;mso-list:l3 level1 lf=
+o1">
+<strong><span style=3D"font-size:10.0pt;font-family:&quot;Helvetica&quot;,s=
+ans-serif;color:black">$400 million</span></strong><span style=3D"font-size=
+:10.0pt;font-family:&quot;Helvetica&quot;,sans-serif;color:black"> was inve=
+sted to modernize our DC Public Schools, creating world-class
+ learning environments for our students and teachers to return to. A big th=
+ank you to the Department of General Services for rising to this ambitious =
+challenge!</span><span style=3D"font-size:10.0pt;font-family:&quot;Helvetic=
+a&quot;,sans-serif"><o:p></o:p></span></li></ul>
+<p style=3D"margin-bottom:3.75pt"><span style=3D"font-size:10.0pt;font-fami=
+ly:&quot;Helvetica&quot;,sans-serif;color:black">Whether you provided a job=
+, enrolled your child in a camp, or supported behind the scenes, you played=
+ a vital role in helping our young people thrive.
+ And remember=97summer isn't officially over yet! Two DPR pools, along with=
+ all spray parks, will remain open until 6:00 p.m. on Sunday, September 22.=
+ So, there=92s still time to enjoy a little more summer fun. For more detai=
+ls, visit
+<a href=3D"https://gcc02.safelinks.protection.outlook.com/?url=3Dhttps%3A%2=
+F%2Fvmm0dj30.r.us-west-2.awstrack.me%2FL0%2Fhttps%3A%252F%252Fdpr.dc.gov%25=
+2Foutdoorpools%2F1%2F010101921149482d-07173b28-c1bd-4b74-9268-ae81ed05429a-=
+000000%2FfeN53NWcuVtyFVjWthV08GvSH7g%3D393&amp;data=3D05%7C02%7Csirisha.pul=
+ivarthi%40dc.gov%7Cfc092ea1aec5462d509208dcd9bac05d%7C8fe449f18b944fb799066=
+f939da82d73%7C0%7C0%7C638624644467340563%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC=
+4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C0%7C%7C%7C&amp;s=
+data=3DxTszJdGUcaujiL0208WRssKRl20qdONXmYHVh%2B%2BbVNE%3D&amp;reserved=3D0"=
+ originalsrc=3D"https://vmm0dj30.r.us-west-2.awstrack.me/L0/https:%2F%2Fdpr=
+.dc.gov%2Foutdoorpools/1/010101921149482d-07173b28-c1bd-4b74-9268-ae81ed054=
+29a-000000/feN53NWcuVtyFVjWthV08GvSH7g=3D393" shash=3D"OtxWVQ6SibN1OcowT6ZH=
+qEvLiGLisrV4d9DimMYr+pXS5WYTyBtP+4Vunqsv6a7Xull3I/FrQ3NiPg49Kqake22CSKz+71Z=
+VAMHj5kTpNZtYJtxBg0orNNNLDUu5YkGK6lzQ7pzr2TY/c9uiwkqnuL3uPufOWtFrXysrmLnX9N=
+c=3D" target=3D"_new">
+<span style=3D"color:#329622">dpr.dc.gov/outdoorpools</span></a>.</span><sp=
+an style=3D"font-size:10.0pt;font-family:&quot;Helvetica&quot;,sans-serif">=
+<o:p></o:p></span></p>
+<p style=3D"margin-bottom:3.75pt"><span style=3D"font-size:10.0pt;font-fami=
+ly:&quot;Helvetica&quot;,sans-serif;color:black">Sincerely,</span><span sty=
+le=3D"font-size:10.0pt;font-family:&quot;Helvetica&quot;,sans-serif"><o:p><=
+/o:p></span></p>
+<p class=3D"MsoNormal"><span style=3D"color:black"><img border=3D"0" width=
+=3D"164" height=3D"84" style=3D"width:1.7083in;height:.875in" id=3D"_x0000_=
+i1049" src=3D"https://content.govdelivery.com/attachments/fancy_images/DCWA=
+SH/2013/03/159474/165038/bowser-sig-better_original_crop.jpg" alt=3D"Muriel=
+ Bowser"><img border=3D"0" width=3D"369" height=3D"246" style=3D"width:3.84=
+72in;height:2.5625in" id=3D"_x0000_i1048" src=3D"https://content.govdeliver=
+y.com/attachments/fancy_images/DCWASH/2024/09/10197072/5710701/whitlock_cro=
+p.jpg" alt=3D"Whitlock"></span><o:p></o:p></p>
+<p style=3D"margin-bottom:3.75pt"><em><span style=3D"font-size:10.0pt;font-=
+family:&quot;Helvetica&quot;,sans-serif;color:black">View photos from this =
+week
+<a href=3D"https://gcc02.safelinks.protection.outlook.com/?url=3Dhttps%3A%2=
+F%2Fvmm0dj30.r.us-west-2.awstrack.me%2FL0%2Fhttps%3A%252F%252Fwww.facebook.=
+com%252Fmedia%252Fset%252F%253Fvanity%3DMayorMurielBowser%2526set%3Da.10985=
+07458305886%2F1%2F010101921149482d-07173b28-c1bd-4b74-9268-ae81ed05429a-000=
+000%2FW9b755AEYugcBVFN9egJSaWMpWE%3D393&amp;data=3D05%7C02%7Csirisha.puliva=
+rthi%40dc.gov%7Cfc092ea1aec5462d509208dcd9bac05d%7C8fe449f18b944fb799066f93=
+9da82d73%7C0%7C0%7C638624644467352801%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wL=
+jAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C0%7C%7C%7C&amp;sdat=
+a=3DyERzxbhsHsRfl1SOPOKSisnqs7yCOXsYszNFfUL6eG0%3D&amp;reserved=3D0" origin=
+alsrc=3D"https://vmm0dj30.r.us-west-2.awstrack.me/L0/https:%2F%2Fwww.facebo=
+ok.com%2Fmedia%2Fset%2F%3Fvanity=3DMayorMurielBowser%26set=3Da.109850745830=
+5886/1/010101921149482d-07173b28-c1bd-4b74-9268-ae81ed05429a-000000/W9b755A=
+EYugcBVFN9egJSaWMpWE=3D393" shash=3D"AsYh5WBKeamkCVvJkAT9tN2pLVTmcVR21IqO7l=
+gbcYDi4t7rpRbM/5+DcEzP3Xyc5WzFfgPo5KKJe/UDbL87hpjk/vOSgBfdgPv23wc6tl6/BFp+X=
+d0UcaQli1J6bJCGmMkOZVA+pGqzRtb4WHDrQBzOUQl6IvaELU8E4DVoWqk=3D" target=3D"_b=
+lank">
+<span style=3D"color:#329622">on Facebook</span></a>.&nbsp;</span></em><spa=
+n style=3D"font-size:10.0pt;font-family:&quot;Helvetica&quot;,sans-serif"><=
+o:p></o:p></span></p>
+<h1 style=3D"mso-margin-top-alt:0in;margin-right:0in;margin-bottom:3.75pt;m=
+argin-left:0in">
+<span style=3D"font-size:15.0pt;font-family:&quot;Century Gothic&quot;,sans=
+-serif;color:black">In This Week's Newsletter:</span><span style=3D"font-si=
+ze:15.0pt;font-family:&quot;Century Gothic&quot;,sans-serif"><o:p></o:p></s=
+pan></h1>
+<ul type=3D"disc">
+<li class=3D"MsoNormal" style=3D"mso-margin-top-alt:auto;mso-margin-bottom-=
+alt:auto;mso-list:l4 level1 lfo2">
+<span style=3D"font-size:10.0pt;font-family:&quot;Helvetica&quot;,sans-seri=
+f;color:black"><a href=3D"#link_3"><span style=3D"color:#329622">Dine All N=
+ight in the District</span></a></span><span style=3D"font-size:10.0pt;font-=
+family:&quot;Helvetica&quot;,sans-serif"><o:p></o:p></span></li><li class=
+=3D"MsoNormal" style=3D"mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;=
+mso-list:l4 level1 lfo2">
+<span style=3D"font-size:10.0pt;font-family:&quot;Helvetica&quot;,sans-seri=
+f;color:black"><a href=3D"#link_1"><span style=3D"color:#329622">National S=
+eat Check Saturday: Free Car Seat Installation and Giveaway</span></a></spa=
+n><span style=3D"font-size:10.0pt;font-family:&quot;Helvetica&quot;,sans-se=
+rif"><o:p></o:p></span></li><li class=3D"MsoNormal" style=3D"mso-margin-top=
+-alt:auto;mso-margin-bottom-alt:auto;mso-list:l4 level1 lfo2">
+<span style=3D"font-size:10.0pt;font-family:&quot;Helvetica&quot;,sans-seri=
+f;color:black"><a href=3D"#link_4"><span style=3D"color:#329622">#BeDowntow=
+n: =93We Who Believe in Freedom: Black Feminist DC=94 Exhibit
+</span></a></span><span style=3D"font-size:10.0pt;font-family:&quot;Helveti=
+ca&quot;,sans-serif"><o:p></o:p></span></li></ul>
+<h1 style=3D"mso-margin-top-alt:0in;margin-right:0in;margin-bottom:3.75pt;m=
+argin-left:0in">
+<a name=3D"link_3"><span style=3D"font-size:15.0pt;font-family:&quot;Centur=
+y Gothic&quot;,sans-serif;color:#329622">Dine All Night in the District</sp=
+an></a><span style=3D"font-size:15.0pt;font-family:&quot;Century Gothic&quo=
+t;,sans-serif"><o:p></o:p></span></h1>
+<p class=3D"MsoNormal"><span style=3D"color:black"><img border=3D"0" width=
+=3D"369" height=3D"193" style=3D"width:3.8402in;height:2.0069in" id=3D"_x00=
+00_i1047" src=3D"https://content.govdelivery.com/attachments/fancy_images/D=
+CWASH/2024/09/10194969/5710702/dine-all-night-2_crop.jpg" alt=3D"Dine All N=
+ight"></span><o:p></o:p></p>
+<div>
+<p style=3D"margin-bottom:3.75pt"><span class=3D"normaltextrun"><span style=
+=3D"font-size:10.0pt;font-family:&quot;Helvetica&quot;,sans-serif;color:bla=
+ck">Dine All Night is happening now! The 10-day culinary celebration showca=
+ses the talent and creativity of DC's food and drink
+ scene. Through a series of unique experiences, special menu items, and car=
+efully curated dining itineraries, Dine All Night will provide you with a f=
+resh perspective on dining in DC.
+</span></span><span class=3D"eop"><span style=3D"font-size:10.0pt;font-fami=
+ly:&quot;Helvetica&quot;,sans-serif;color:black">&nbsp;</span></span><span =
+style=3D"font-size:10.0pt;font-family:&quot;Helvetica&quot;,sans-serif"><o:=
+p></o:p></span></p>
+</div>
+<div>
+<ul type=3D"disc">
+<li class=3D"MsoNormal" style=3D"mso-margin-top-alt:auto;mso-margin-bottom-=
+alt:auto;mso-list:l1 level1 lfo3">
+<strong><span style=3D"font-size:10.0pt;font-family:&quot;Helvetica&quot;,s=
+ans-serif;color:black">When</span></strong><span style=3D"font-size:10.0pt;=
+font-family:&quot;Helvetica&quot;,sans-serif;color:black">:
+<span class=3D"normaltextrun">Now through Sunday, September 29</span></span=
+><span style=3D"font-size:10.0pt;font-family:&quot;Helvetica&quot;,sans-ser=
+if"><o:p></o:p></span></li><li class=3D"MsoNormal" style=3D"mso-margin-top-=
+alt:auto;mso-margin-bottom-alt:auto;mso-list:l1 level1 lfo3">
+<strong><span style=3D"font-size:10.0pt;font-family:&quot;Helvetica&quot;,s=
+ans-serif;color:black">Find participating restaurants</span></strong><span =
+style=3D"font-size:10.0pt;font-family:&quot;Helvetica&quot;,sans-serif;colo=
+r:black"> at
+<a href=3D"https://gcc02.safelinks.protection.outlook.com/?url=3Dhttp%3A%2F=
+%2Fvmm0dj30.r.us-west-2.awstrack.me%2FL0%2Fhttp%3A%252F%252Fwww.dcartallnig=
+ht.org%252Fdine-all-night%2F1%2F010101921149482d-07173b28-c1bd-4b74-9268-ae=
+81ed05429a-000000%2Fu6ToND7o_zmv9LKvf5WCLmctavU%3D393&amp;data=3D05%7C02%7C=
+sirisha.pulivarthi%40dc.gov%7Cfc092ea1aec5462d509208dcd9bac05d%7C8fe449f18b=
+944fb799066f939da82d73%7C0%7C0%7C638624644467365254%7CUnknown%7CTWFpbGZsb3d=
+8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C0%7C%=
+7C%7C&amp;sdata=3DypRbg7UXgYmsq9hoqYslOK74SXAZ9C3TnkBRMDLb1Fs%3D&amp;reserv=
+ed=3D0" originalsrc=3D"http://vmm0dj30.r.us-west-2.awstrack.me/L0/http:%2F%=
+2Fwww.dcartallnight.org%2Fdine-all-night/1/010101921149482d-07173b28-c1bd-4=
+b74-9268-ae81ed05429a-000000/u6ToND7o_zmv9LKvf5WCLmctavU=3D393" shash=3D"m2=
+5pNgL3JeDtvJJN6sH4dSWZzZ3AeP2WqQjhy73kMNHdCT4F7m59FkLZBtxXa4u+7uLDtwguItiDx=
+Qs9DsNbNmtW2bTw4vySyHvWfAqyw8LB+c9MJ6McgHW9c6vCc+4lgHPlt4mlPIC1j+7PGrFrXtKC=
+3PvKu9UuyBLC0yzT+io=3D" target=3D"_blank">
+<span class=3D"normaltextrun"><span style=3D"color:#329622">dcartallnight.o=
+rg/dine-all-night</span></span></a>
+</span><span style=3D"font-size:10.0pt;font-family:&quot;Helvetica&quot;,sa=
+ns-serif"><o:p></o:p></span></li></ul>
+</div>
+<p style=3D"margin-bottom:3.75pt"><span style=3D"font-size:10.0pt;font-fami=
+ly:&quot;Helvetica&quot;,sans-serif;color:black"><a href=3D"#gd_top"><span =
+style=3D"color:#329622">Back to Top</span></a></span><span style=3D"font-si=
+ze:10.0pt;font-family:&quot;Helvetica&quot;,sans-serif"><o:p></o:p></span><=
+/p>
+<h1 style=3D"mso-margin-top-alt:0in;margin-right:0in;margin-bottom:3.75pt;m=
+argin-left:0in">
+<a name=3D"link_1"><span style=3D"font-size:15.0pt;font-family:&quot;Centur=
+y Gothic&quot;,sans-serif;color:#329622">National Seat Check Saturday: Free=
+ Car Seat Installation and Giveaway</span></a><span style=3D"font-size:15.0=
+pt;font-family:&quot;Century Gothic&quot;,sans-serif"><o:p></o:p></span></h=
+1>
+<p class=3D"MsoNormal"><span style=3D"color:black"><img border=3D"0" width=
+=3D"375" height=3D"485" style=3D"width:3.9027in;height:5.0486in" id=3D"_x00=
+00_i1046" src=3D"https://content.govdelivery.com/attachments/fancy_images/D=
+CWASH/2024/09/10188638/5707447/scsflyer-corrected-logos_crop.jpg" alt=3D"U9=
+2435878"></span><o:p></o:p></p>
+<div>
+<div>
+<div>
+<div>
+<div>
+<p class=3D"MsoNormal"><span class=3D"normaltextrun"><span style=3D"color:b=
+lack">Ensure your child=92s safety with a properly installed and profession=
+ally inspected car seat! DC residents can receive a free car seat with proo=
+f of valid ID (while supplies last, and
+ the child must be present). When installed correctly, car seats can be lif=
+esaving=97don't miss this opportunity to protect your little ones.
+</span></span><span class=3D"eop"><span style=3D"color:black">&nbsp;</span>=
+</span><span style=3D"color:black">
+</span><o:p></o:p></p>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div>
+<ul type=3D"disc">
+<li class=3D"MsoNormal" style=3D"mso-margin-top-alt:auto;mso-margin-bottom-=
+alt:auto;mso-list:l2 level1 lfo4">
+<strong><span style=3D"font-size:10.0pt;font-family:&quot;Helvetica&quot;,s=
+ans-serif;color:black">When</span></strong><span style=3D"font-size:10.0pt;=
+font-family:&quot;Helvetica&quot;,sans-serif;color:black">:
+<span class=3D"normaltextrun">Saturday, September 21 at 10:00 a.m.</span></=
+span><span style=3D"font-size:10.0pt;font-family:&quot;Helvetica&quot;,sans=
+-serif"><o:p></o:p></span></li><li class=3D"MsoNormal" style=3D"mso-margin-=
+top-alt:auto;mso-margin-bottom-alt:auto;mso-list:l2 level1 lfo4">
+<strong><span style=3D"font-size:10.0pt;font-family:&quot;Helvetica&quot;,s=
+ans-serif;color:black">Where</span></strong><span style=3D"font-size:10.0pt=
+;font-family:&quot;Helvetica&quot;,sans-serif;color:black">:
+<span class=3D"normaltextrun">Bald Eagle Recreation Center, 100 Joliet St S=
+W</span>
+</span><span style=3D"font-size:10.0pt;font-family:&quot;Helvetica&quot;,sa=
+ns-serif"><o:p></o:p></span></li></ul>
+<p style=3D"margin-bottom:3.75pt"><span style=3D"font-size:10.0pt;font-fami=
+ly:&quot;Helvetica&quot;,sans-serif;color:black"><a href=3D"#gd_top"><span =
+style=3D"color:#329622">Back to Top</span></a></span><span style=3D"font-si=
+ze:10.0pt;font-family:&quot;Helvetica&quot;,sans-serif"><o:p></o:p></span><=
+/p>
+</div>
+<h1 style=3D"mso-margin-top-alt:0in;margin-right:0in;margin-bottom:3.75pt;m=
+argin-left:0in">
+<a name=3D"link_4"><span style=3D"font-size:15.0pt;font-family:&quot;Centur=
+y Gothic&quot;,sans-serif;color:#329622">#BeDowntown: =93We Who Believe in =
+Freedom: Black Feminist DC=94 Exhibit
+</span></a><span style=3D"font-size:15.0pt;font-family:&quot;Century Gothic=
+&quot;,sans-serif"><o:p></o:p></span></h1>
+<p class=3D"MsoNormal"><span style=3D"color:black"><img border=3D"0" width=
+=3D"375" height=3D"159" style=3D"width:3.9097in;height:1.6527in" id=3D"_x00=
+00_i1045" src=3D"https://content.govdelivery.com/attachments/fancy_images/D=
+CWASH/2024/09/10188652/screenshot-19-9-2024-144416-www-bing-com_original.jp=
+eg" alt=3D"kids world"></span><o:p></o:p></p>
+<p style=3D"margin-bottom:3.75pt"><span class=3D"normaltextrun"><span style=
+=3D"font-size:10.0pt;font-family:&quot;Helvetica&quot;,sans-serif;color:bla=
+ck">Discover this powerful exhibit at the Martin Luther King Jr. Memorial L=
+ibrary, highlighting the legacy of Black feminist
+ leaders who shaped movements for justice in DC and beyond. The exhibit tra=
+ces their impact from the early 20th century to today, focusing on the figh=
+t for freedom and liberation. Plan your visit and discover how their work c=
+ontinues to inspire change!
+</span></span><span class=3D"eop"><span style=3D"font-size:10.0pt;font-fami=
+ly:&quot;Helvetica&quot;,sans-serif;color:black">&nbsp;</span></span><span =
+style=3D"font-size:10.0pt;font-family:&quot;Helvetica&quot;,sans-serif"><o:=
+p></o:p></span></p>
+<ul type=3D"disc">
+<li class=3D"MsoNormal" style=3D"mso-margin-top-alt:auto;mso-margin-bottom-=
+alt:auto;mso-list:l0 level1 lfo5">
+<strong><span style=3D"font-size:10.0pt;font-family:&quot;Helvetica&quot;,s=
+ans-serif;color:black">When</span></strong><span style=3D"font-size:10.0pt;=
+font-family:&quot;Helvetica&quot;,sans-serif;color:black">:
+<span class=3D"normaltextrun">Now through Sunday, September 29th&nbsp;</spa=
+n></span><span style=3D"font-size:10.0pt;font-family:&quot;Helvetica&quot;,=
+sans-serif"><o:p></o:p></span></li><li class=3D"MsoNormal" style=3D"mso-mar=
+gin-top-alt:auto;mso-margin-bottom-alt:auto;mso-list:l0 level1 lfo5">
+<strong><span style=3D"font-size:10.0pt;font-family:&quot;Helvetica&quot;,s=
+ans-serif;color:black">Where</span></strong><span style=3D"font-size:10.0pt=
+;font-family:&quot;Helvetica&quot;,sans-serif;color:black">:
+<span class=3D"normaltextrun">First Floor West, Martin Luther King Jr. Memo=
+rial Library, 901 G Street NW</span><span class=3D"eop">&nbsp;</span>
+</span><span style=3D"font-size:10.0pt;font-family:&quot;Helvetica&quot;,sa=
+ns-serif"><o:p></o:p></span></li><li class=3D"MsoNormal" style=3D"mso-margi=
+n-top-alt:auto;mso-margin-bottom-alt:auto;mso-list:l0 level1 lfo5">
+<strong><span style=3D"font-size:10.0pt;font-family:&quot;Helvetica&quot;,s=
+ans-serif;color:black">More information</span></strong><span style=3D"font-=
+size:10.0pt;font-family:&quot;Helvetica&quot;,sans-serif;color:black">:
+<a href=3D"https://gcc02.safelinks.protection.outlook.com/?url=3Dhttp%3A%2F=
+%2Fvmm0dj30.r.us-west-2.awstrack.me%2FL0%2Fhttp%3A%252F%252Fwomenshistory.o=
+rg%252Fblack-feminist-dc%2F1%2F010101921149482d-07173b28-c1bd-4b74-9268-ae8=
+1ed05429a-000000%2F8XlAMGqEXZQvIk_wWqPlFPejufc%3D393&amp;data=3D05%7C02%7Cs=
+irisha.pulivarthi%40dc.gov%7Cfc092ea1aec5462d509208dcd9bac05d%7C8fe449f18b9=
+44fb799066f939da82d73%7C0%7C0%7C638624644467379662%7CUnknown%7CTWFpbGZsb3d8=
+eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C0%7C%7=
+C%7C&amp;sdata=3DyFfR6Xm8tF4h2%2FrTByLmpWKUmPf1Q%2Bg%2Bot3ZLmxuO%2BM%3D&amp=
+;reserved=3D0" originalsrc=3D"http://vmm0dj30.r.us-west-2.awstrack.me/L0/ht=
+tp:%2F%2Fwomenshistory.org%2Fblack-feminist-dc/1/010101921149482d-07173b28-=
+c1bd-4b74-9268-ae81ed05429a-000000/8XlAMGqEXZQvIk_wWqPlFPejufc=3D393" shash=
+=3D"qvet31nLQaL/ezM3ZzwiJl04b+9pJwYXb1+/lOHUC7owYRd44Uto+cWaGorX2gewqQPOjZw=
+L8yiUcKUZuH0fV/bH8qYegHIMG3ewPTaIyZexy2aXJchpLqI3wW5MSIMO6gWLy2his+V4bD6pjs=
+iVdDHLHzltB/XeiS/JBq088Eg=3D" target=3D"_blank">
+<span class=3D"normaltextrun"><span style=3D"color:#329622">womenshistory.o=
+rg/black-feminist-dc</span></span></a>
+</span><span style=3D"font-size:10.0pt;font-family:&quot;Helvetica&quot;,sa=
+ns-serif"><o:p></o:p></span></li></ul>
+<p style=3D"margin-bottom:3.75pt"><span style=3D"font-size:10.0pt;font-fami=
+ly:&quot;Helvetica&quot;,sans-serif;color:black"><a href=3D"#gd_top"><span =
+style=3D"color:#329622">Back to Top</span></a></span><span style=3D"font-si=
+ze:10.0pt;font-family:&quot;Helvetica&quot;,sans-serif"><o:p></o:p></span><=
+/p>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr>
+<td valign=3D"top" style=3D"background:#ECF5E9;padding:0in 0in 0in 0in" id=
+=3D"gd_ab_footer">
+<p class=3D"gdp" align=3D"center" style=3D"margin-bottom:0in;text-align:cen=
+ter"><span style=3D"font-size:7.5pt;font-family:&quot;Helvetica&quot;,sans-=
+serif;color:black">Mayor Muriel Bowser<o:p></o:p></span></p>
+<p class=3D"gdp" align=3D"center" style=3D"margin-bottom:0in;text-align:cen=
+ter"><span style=3D"font-size:7.5pt;font-family:&quot;Helvetica&quot;,sans-=
+serif;color:black">John A. Wilson Building | 1350 Pennsylvania Avenue, NW |=
+ Washington DC, 20004<o:p></o:p></span></p>
+<p class=3D"gdp" align=3D"center" style=3D"margin-bottom:0in;text-align:cen=
+ter"><span style=3D"font-size:7.5pt;font-family:&quot;Helvetica&quot;,sans-=
+serif;color:black">(202) 727-2643<o:p></o:p></span></p>
+<p class=3D"gdp" align=3D"center" style=3D"margin-bottom:0in;text-align:cen=
+ter"><span style=3D"font-size:7.5pt;font-family:&quot;Helvetica&quot;,sans-=
+serif;color:black"><a href=3D"mailto:muriel.bowser@dc.gov"><span style=3D"c=
+olor:black">muriel.bowser@dc.gov</span></a> |
+<a href=3D"https://gcc02.safelinks.protection.outlook.com/?url=3Dhttp%3A%2F=
+%2Fvmm0dj30.r.us-west-2.awstrack.me%2FL0%2Fhttp%3A%252F%252Fmayor.dc.gov%2F=
+1%2F010101921149482d-07173b28-c1bd-4b74-9268-ae81ed05429a-000000%2FxEGFYxhq=
+D98xTaSDpJEL63MTURQ%3D393&amp;data=3D05%7C02%7Csirisha.pulivarthi%40dc.gov%=
+7Cfc092ea1aec5462d509208dcd9bac05d%7C8fe449f18b944fb799066f939da82d73%7C0%7=
+C0%7C638624644467392407%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjo=
+iV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C0%7C%7C%7C&amp;sdata=3Dcx8jevv1U%=
+2FZaqyNmyfdcurrt6KPlsEYnMMUMC5aBrAg%3D&amp;reserved=3D0" originalsrc=3D"htt=
+p://vmm0dj30.r.us-west-2.awstrack.me/L0/http:%2F%2Fmayor.dc.gov/1/010101921=
+149482d-07173b28-c1bd-4b74-9268-ae81ed05429a-000000/xEGFYxhqD98xTaSDpJEL63M=
+TURQ=3D393" shash=3D"QyYmTUnfT4YE+Nd6nw9vL0H9SiUthd4fETWIhsyQ9AHizNhcsfb8n4=
+lTEULo3/cI9NxCZKwDPTcWPUiw7Cg0NlSLQfYbjbUJcG/jCC6M4TIou5Zyi0uOBfnAVCmVlz+IT=
+ykVS/3lTO3OWfgorPqmZ+Sdg1GBcvp7MEI4wPMqpSg=3D">
+<span style=3D"color:black">mayor.dc.gov</span></a> | @mayorbowser<o:p></o:=
+p></span></p>
+<p class=3D"gdp" align=3D"center" style=3D"margin-bottom:0in;text-align:cen=
+ter"><span style=3D"font-size:7.5pt;font-family:&quot;Helvetica&quot;,sans-=
+serif;color:black">&nbsp;<o:p></o:p></span></p>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+<div id=3D"mail_footer">
+<div class=3D"MsoNormal" align=3D"center" style=3D"text-align:center">
+<hr size=3D"1" width=3D"100%" align=3D"center">
+</div>
+<table class=3D"MsoNormalTable" border=3D"0" cellspacing=3D"0" cellpadding=
+=3D"0" width=3D"100%" style=3D"width:100.0%">
+<tbody>
+<tr>
+<td width=3D"8%" style=3D"width:8.0%;padding:0in 3.75pt 0in 0in">
+<p class=3D"MsoNormal"><a href=3D"https://gcc02.safelinks.protection.outloo=
+k.com/?url=3Dhttp%3A%2F%2Fvmm0dj30.r.us-west-2.awstrack.me%2FL0%2Fhttp%3A%2=
+52F%252Fdc.gov%2F1%2F010101921149482d-07173b28-c1bd-4b74-9268-ae81ed05429a-=
+000000%2FTUyNVWu86JTKL84JbQbFEZBnLpA%3D393&amp;data=3D05%7C02%7Csirisha.pul=
+ivarthi%40dc.gov%7Cfc092ea1aec5462d509208dcd9bac05d%7C8fe449f18b944fb799066=
+f939da82d73%7C0%7C0%7C638624644467404824%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC=
+4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C0%7C%7C%7C&amp;s=
+data=3DKw4a7r7pWYtMDUv81eXV1w9ibQXvrkULP5ozHkEFPgI%3D&amp;reserved=3D0" ori=
+ginalsrc=3D"http://vmm0dj30.r.us-west-2.awstrack.me/L0/http:%2F%2Fdc.gov/1/=
+010101921149482d-07173b28-c1bd-4b74-9268-ae81ed05429a-000000/TUyNVWu86JTKL8=
+4JbQbFEZBnLpA=3D393" shash=3D"rF8gNuMkmYuGregxbTsJ7lYx9o3woKD6LWiww87u2usmJ=
+4swAnn6kZR5h0IClS0QLzQS1enfZYiaYNSWCphWxwTcBKifhMZIWszuXjw4i5JJ5dRenhyDD4HR=
+m/xQvFSj1HD7yVsBJgFyILb94rZH/yJKlmDxguJ2DIVR9mB+mCU=3D" target=3D"_blank"><=
+span style=3D"text-decoration:none"><img border=3D"0" width=3D"55" height=
+=3D"44" style=3D"width:.5763in;height:.4583in" id=3D"_x0000_i1044" src=3D"h=
+ttps://admin.govdelivery.com/system/images/15505/original/DC_flag.png" alt=
+=3D"DC Flag"></span></a><o:p></o:p></p>
+</td>
+<td width=3D"22%" style=3D"width:22.0%;padding:0in 0in 0in 0in">
+<table class=3D"MsoNormalTable" border=3D"0" cellspacing=3D"0" cellpadding=
+=3D"0" width=3D"190" style=3D"width:142.5pt">
+<tbody>
+<tr>
+<td colspan=3D"6" style=3D"padding:0in 0in 0in 0in">
+<p class=3D"MsoNormal"><span style=3D"font-size:9.0pt;font-family:&quot;Ari=
+al&quot;,sans-serif;color:#666666">STAY CONNECTED:</span><o:p></o:p></p>
+</td>
+</tr>
+<tr>
+<td width=3D"30" style=3D"width:22.5pt;padding:0in 0in 0in 0in">
+<p class=3D"MsoNormal"><a href=3D"https://gcc02.safelinks.protection.outloo=
+k.com/?url=3Dhttps%3A%2F%2Fvmm0dj30.r.us-west-2.awstrack.me%2FL0%2Fhttps%3A=
+%252F%252Fwww.facebook.com%252FMayorMurielBowser%2F2%2F010101921149482d-071=
+73b28-c1bd-4b74-9268-ae81ed05429a-000000%2FKyvNPHz94EHIRdeenci1HZ-qgj4%3D39=
+3&amp;data=3D05%7C02%7Csirisha.pulivarthi%40dc.gov%7Cfc092ea1aec5462d509208=
+dcd9bac05d%7C8fe449f18b944fb799066f939da82d73%7C0%7C0%7C638624644467416915%=
+7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWw=
+iLCJXVCI6Mn0%3D%7C0%7C%7C%7C&amp;sdata=3DUd4hP6RMFWBIViQtnZyMhjeNJjWDvwi3Xo=
+0a0sCr60Q%3D&amp;reserved=3D0" originalsrc=3D"https://vmm0dj30.r.us-west-2.=
+awstrack.me/L0/https:%2F%2Fwww.facebook.com%2FMayorMurielBowser/2/010101921=
+149482d-07173b28-c1bd-4b74-9268-ae81ed05429a-000000/KyvNPHz94EHIRdeenci1HZ-=
+qgj4=3D393" shash=3D"N774Rm1WyJplXYpcCbFrITRgJO0QwBmSsMOnuKgh8xg/mBFM3dphcF=
+QQRM04gGl8HS3r4DKnWudaf2/gtwdnkYgKwta5KXzEu78Fhd+cvuQjqi33xYFhT2Xz5GZzltVf9=
+Ebopn3kdckYTTh1XWP4niayYPtVZR+hKUdt7x6fvNk=3D" title=3D"&quot;Facebook&quot=
+; t "><span style=3D"text-decoration:none"><img border=3D"0" width=3D"26" h=
+eight=3D"25" style=3D"width:.2708in;height:.2638in" id=3D"_x0000_i1043" src=
+=3D"https://admin.govdelivery.com/system/images/15507/original/facebook.gif=
+" alt=3D"Visit us on Facebook"></span></a><o:p></o:p></p>
+</td>
+<td width=3D"30" style=3D"width:22.5pt;padding:0in 0in 0in 0in">
+<p class=3D"MsoNormal"><a href=3D"https://gcc02.safelinks.protection.outloo=
+k.com/?url=3Dhttps%3A%2F%2Fvmm0dj30.r.us-west-2.awstrack.me%2FL0%2Fhttps%3A=
+%252F%252Ftwitter.com%252FMayorBowser%2F2%2F010101921149482d-07173b28-c1bd-=
+4b74-9268-ae81ed05429a-000000%2Fe-OnAq-WdJo8QxdJ9iS1NzReXSc%3D393&amp;data=
+=3D05%7C02%7Csirisha.pulivarthi%40dc.gov%7Cfc092ea1aec5462d509208dcd9bac05d=
+%7C8fe449f18b944fb799066f939da82d73%7C0%7C0%7C638624644467429047%7CUnknown%=
+7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6M=
+n0%3D%7C0%7C%7C%7C&amp;sdata=3DZvVmvcDJ7j4guW%2Fiq7of441vQ8Ij5oNc%2FuYs4So1=
+POw%3D&amp;reserved=3D0" originalsrc=3D"https://vmm0dj30.r.us-west-2.awstra=
+ck.me/L0/https:%2F%2Ftwitter.com%2FMayorBowser/2/010101921149482d-07173b28-=
+c1bd-4b74-9268-ae81ed05429a-000000/e-OnAq-WdJo8QxdJ9iS1NzReXSc=3D393" shash=
+=3D"fn8QAe9czqJGaTpFFqwCG9PEig5s77lWHqbdsM51pHLOm99aJHVbRuoF7aHhqWMvh6gXsA1=
+Zd9OCnakaQYTq2wwUOYREw9lT3hzbZEgjqVxrQehB9mMMCoLSei7zknDsfALDErRp6nCUSyCQfj=
++/66Bfh/58PgSbag8JzGWBrrU=3D" title=3D"&quot;Twitter&quot; t "><span style=
+=3D"text-decoration:none"><img border=3D"0" width=3D"25" height=3D"25" styl=
+e=3D"width:.2638in;height:.2638in" id=3D"_x0000_i1042" src=3D"https://conte=
+nt.govdelivery.com/system/images/97394/original/X-30px-2.png" alt=3D"Visit =
+us on X"></span></a><o:p></o:p></p>
+</td>
+<td width=3D"30" style=3D"width:22.5pt;padding:0in 0in 0in 0in">
+<p class=3D"MsoNormal"><a href=3D"https://gcc02.safelinks.protection.outloo=
+k.com/?url=3Dhttps%3A%2F%2Fvmm0dj30.r.us-west-2.awstrack.me%2FL0%2Fhttps%3A=
+%252F%252Fwww.instagram.com%252Fmayor_bowser%252F%2F2%2F010101921149482d-07=
+173b28-c1bd-4b74-9268-ae81ed05429a-000000%2FomnCa3IBc_92pmYOqQgWuVRWf7s%3D3=
+93&amp;data=3D05%7C02%7Csirisha.pulivarthi%40dc.gov%7Cfc092ea1aec5462d50920=
+8dcd9bac05d%7C8fe449f18b944fb799066f939da82d73%7C0%7C0%7C638624644467441242=
+%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haW=
+wiLCJXVCI6Mn0%3D%7C0%7C%7C%7C&amp;sdata=3DnB%2BlJcCpODS96APaMkO633KPPpyGEwE=
+6mvBLRz9i8MM%3D&amp;reserved=3D0" originalsrc=3D"https://vmm0dj30.r.us-west=
+-2.awstrack.me/L0/https:%2F%2Fwww.instagram.com%2Fmayor_bowser%2F/2/0101019=
+21149482d-07173b28-c1bd-4b74-9268-ae81ed05429a-000000/omnCa3IBc_92pmYOqQgWu=
+VRWf7s=3D393" shash=3D"Yd4H1PB0WqFPz1SUX3JUyQZrU1AU7DfdDUHOKVY8UdSSH8in7GyB=
+Dhtfz6rzNHyENSIXPeaWe6WMGyTdOsrL5YUGZYTkHZQ++pbsrT/Vhfc7dbyRVpGurjbTzi5du4h=
+hx07CT8P7n3fZsflOyWdikuLwDtxFbShNZuLhoxpk8gc=3D" title=3D"&quot;Instagram&q=
+uot;"><span style=3D"text-decoration:none"><img border=3D"0" width=3D"25" h=
+eight=3D"25" style=3D"width:.2638in;height:.2638in" id=3D"_x0000_i1041" src=
+=3D"https://content.govdelivery.com/system/images/57185/original/Instagram_=
+Icon1.png" alt=3D"Instagram Logo"></span></a><o:p></o:p></p>
+</td>
+<td width=3D"30" style=3D"width:22.5pt;padding:0in 0in 0in 0in">
+<p class=3D"MsoNormal">&nbsp;<a href=3D"https://gcc02.safelinks.protection.=
+outlook.com/?url=3Dhttps%3A%2F%2Fvmm0dj30.r.us-west-2.awstrack.me%2FL0%2Fht=
+tps%3A%252F%252Fwww.youtube.com%252Fchannel%252FUCMPbW-rxSm1ke9PkqDZWO3g%2F=
+1%2F010101921149482d-07173b28-c1bd-4b74-9268-ae81ed05429a-000000%2F9CDo-GAc=
+yTq8ugXh_jz9iUJTS6g%3D393&amp;data=3D05%7C02%7Csirisha.pulivarthi%40dc.gov%=
+7Cfc092ea1aec5462d509208dcd9bac05d%7C8fe449f18b944fb799066f939da82d73%7C0%7=
+C0%7C638624644467453375%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjo=
+iV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C0%7C%7C%7C&amp;sdata=3DZgcoIYMT0Y=
+xLJ0DnGWO%2BsuVk1K%2FltfshK%2FBhqXKVjHo%3D&amp;reserved=3D0" originalsrc=3D=
+"https://vmm0dj30.r.us-west-2.awstrack.me/L0/https:%2F%2Fwww.youtube.com%2F=
+channel%2FUCMPbW-rxSm1ke9PkqDZWO3g/1/010101921149482d-07173b28-c1bd-4b74-92=
+68-ae81ed05429a-000000/9CDo-GAcyTq8ugXh_jz9iUJTS6g=3D393" shash=3D"YwQ39az0=
+GiD6OHqIaDx3wGIl1G3gUfsE36sv24ZiSMBs98nvhNZChkhA3EgjtsVxZiLVA0GOXDkyAU4YMxe=
+rh/SdJzWGqPp14hLgjMdbMtt2VeG9TEjeGivVphGH9VRW1dVcC2TXkXcxfG+YYR9Fp3b39yZLNP=
+ifpAogf9rP2F4=3D" title=3D"&quot;Visit us on Youtube&quot;"><span style=3D"=
+text-decoration:none"><img border=3D"0" width=3D"25" height=3D"25" style=3D=
+"width:.2638in;height:.2638in" id=3D"_x0000_i1040" src=3D"https://admin.gov=
+delivery.com/attachments/fancy_images/DCWASH/2015/04/478166/youtube_origina=
+l.png" alt=3D"Visit us on YouTube"></span></a>
+<o:p></o:p></p>
+</td>
+<td style=3D"padding:0in 0in 0in 0in">
+<p class=3D"MsoNormal">&nbsp;<a href=3D"https://gcc02.safelinks.protection.=
+outlook.com/?url=3Dhttps%3A%2F%2Fvmm0dj30.r.us-west-2.awstrack.me%2FL0%2Fht=
+tps%3A%252F%252Fpublic.govdelivery.com%252Faccounts%252FDCWASH%252Fsubscrib=
+er%252Fnew%2F1%2F010101921149482d-07173b28-c1bd-4b74-9268-ae81ed05429a-0000=
+00%2FsLG4HWSRlgko8seqD0uwkQoKC_w%3D393&amp;data=3D05%7C02%7Csirisha.pulivar=
+thi%40dc.gov%7Cfc092ea1aec5462d509208dcd9bac05d%7C8fe449f18b944fb799066f939=
+da82d73%7C0%7C0%7C638624644467465325%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLj=
+AwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C0%7C%7C%7C&amp;sdata=
+=3Dkgd%2Bd6UmlI%2BWU3WlttHk%2BcQmImfM32zhTDqGbRLgGIs%3D&amp;reserved=3D0" o=
+riginalsrc=3D"https://vmm0dj30.r.us-west-2.awstrack.me/L0/https:%2F%2Fpubli=
+c.govdelivery.com%2Faccounts%2FDCWASH%2Fsubscriber%2Fnew/1/010101921149482d=
+-07173b28-c1bd-4b74-9268-ae81ed05429a-000000/sLG4HWSRlgko8seqD0uwkQoKC_w=3D=
+393" shash=3D"dTZS3roXgBKvU5jmGePtjFSNlNgHdSrVFyGRCMMlFH0f1u0NTlNtH9aTnrIJz=
+PoeN3C8MZyi6ggCUVqlQOmTWIl3c60eO3Tb36+swvpBBJquDt3SCWEgsTh7TrR4nxeryXyPbIyC=
+pLqVhQ8BENqYNd6p6xHsMtLjZNehBM5l6dQ=3D" title=3D"&quot;Sign up for emails&q=
+uot;"><span style=3D"text-decoration:none"><img border=3D"0" width=3D"25" h=
+eight=3D"25" style=3D"width:.2638in;height:.2638in" id=3D"_x0000_i1039" src=
+=3D"https://admin.govdelivery.com/system/images/15510/original/envelope.gif=
+" alt=3D"Sign up for email updates"></span></a>
+<o:p></o:p></p>
+</td>
+<td style=3D"padding:0in 0in 0in 0in"></td>
+</tr>
+</tbody>
+</table>
+</td>
+<td width=3D"60%" valign=3D"top" style=3D"width:60.0%;padding:0in 0in 0in 0=
+in">
+<p class=3D"MsoNormal" align=3D"right" style=3D"margin-bottom:12.0pt;text-a=
+lign:right">
+<span style=3D"font-size:9.0pt;font-family:&quot;Arial&quot;,sans-serif;col=
+or:#666666">Questions?
+<a href=3D"https://gcc02.safelinks.protection.outlook.com/?url=3Dhttp%3A%2F=
+%2Fvmm0dj30.r.us-west-2.awstrack.me%2FL0%2Fhttp%3A%252F%252Fdc.gov%252Fpage=
+%252Ffeedback-complaints-and-appeals%2F1%2F010101921149482d-07173b28-c1bd-4=
+b74-9268-ae81ed05429a-000000%2FV80DVoWUG6HIzLdJHPBVpUTmKOo%3D393&amp;data=
+=3D05%7C02%7Csirisha.pulivarthi%40dc.gov%7Cfc092ea1aec5462d509208dcd9bac05d=
+%7C8fe449f18b944fb799066f939da82d73%7C0%7C0%7C638624644467477267%7CUnknown%=
+7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6M=
+n0%3D%7C0%7C%7C%7C&amp;sdata=3Dpr6b2cKaiW%2FkhRpfDlKCc2mnQOaSRk93zdo%2F3QRN=
+8vA%3D&amp;reserved=3D0" originalsrc=3D"http://vmm0dj30.r.us-west-2.awstrac=
+k.me/L0/http:%2F%2Fdc.gov%2Fpage%2Ffeedback-complaints-and-appeals/1/010101=
+921149482d-07173b28-c1bd-4b74-9268-ae81ed05429a-000000/V80DVoWUG6HIzLdJHPBV=
+pUTmKOo=3D393" shash=3D"SxKIbJ/Vt8cdZQkdpm6Lo+E2dX9fCPE2a/dTWFU70NsC8N9+J+W=
+FlBjS0BxgObAU4NFMjD5OwoxQm4ki9qojxymH6988cel5zTgTHt+MXkZ2wxYVwU8SoaTUzdv+YY=
+O1/m0GPJ/g+Dr0TYvebbJPQAPh19Dd5YVGjEStXCVCcd0=3D" title=3D"Contact Us">
+Contact Us</a><o:p></o:p></span></p>
+</td>
+<td width=3D"10%" rowspan=3D"3" valign=3D"top" style=3D"width:10.0%;padding=
+:0in 0in 0in 0in">
+<p class=3D"MsoNormal" align=3D"right" style=3D"text-align:right"><a href=
+=3D"https://gcc02.safelinks.protection.outlook.com/?url=3Dhttp%3A%2F%2Fvmm0=
+dj30.r.us-west-2.awstrack.me%2FL0%2Fhttp%3A%252F%252Fdc.gov%2F2%2F010101921=
+149482d-07173b28-c1bd-4b74-9268-ae81ed05429a-000000%2FmeDwDT--6rnFhmuFz-Rv5=
+3JBRFc%3D393&amp;data=3D05%7C02%7Csirisha.pulivarthi%40dc.gov%7Cfc092ea1aec=
+5462d509208dcd9bac05d%7C8fe449f18b944fb799066f939da82d73%7C0%7C0%7C63862464=
+4467489245%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJB=
+TiI6Ik1haWwiLCJXVCI6Mn0%3D%7C0%7C%7C%7C&amp;sdata=3Dw9Sce0Fi1iK%2BeHI3iqGZH=
+NdQl7aRy8o2Q0epqjIN6uY%3D&amp;reserved=3D0" originalsrc=3D"http://vmm0dj30.=
+r.us-west-2.awstrack.me/L0/http:%2F%2Fdc.gov/2/010101921149482d-07173b28-c1=
+bd-4b74-9268-ae81ed05429a-000000/meDwDT--6rnFhmuFz-Rv53JBRFc=3D393" shash=
+=3D"FAEQkk+YZcDRpXnVAXHftlhoNZNrZMk45b1OGdSFsqIEWQmKt5ZKBLFLKYlclUwyiUpcyk1=
+Penlc8L0+0e6D28/uKwa7vjVKnbmO4d9MyiH2vVE0csaXw/SAxFK68CTEEY/vsp6NOJcixAKjUE=
+JHuGtN67eVNNtjM0yfrpxysWE=3D"><span style=3D"font-size:9.0pt;font-family:&q=
+uot;Arial&quot;,sans-serif;text-decoration:none"><img border=3D"0" width=3D=
+"85" height=3D"90" style=3D"width:.8819in;height:.9375in" id=3D"_x0000_i103=
+8" src=3D"https://admin.govdelivery.com/attachments/fancy_images/DCWASH/201=
+5/01/426074/we-are-washington-resize_original.png" alt=3D"We are Washington=
+ DC"></span></a><span style=3D"font-size:9.0pt;font-family:&quot;Arial&quot=
+;,sans-serif;color:#666666">&nbsp;<o:p></o:p></span></p>
+</td>
+</tr>
+<tr>
+<td style=3D"padding:0in 0in 0in 0in">
+<p class=3D"MsoNormal">&nbsp;<o:p></o:p></p>
+</td>
+<td valign=3D"bottom" style=3D"padding:0in 0in 0in 0in">
+<p class=3D"MsoNormal"><span style=3D"font-size:9.0pt;font-family:&quot;Ari=
+al&quot;,sans-serif;color:#666666">&nbsp;<o:p></o:p></span></p>
+</td>
+<td valign=3D"bottom" style=3D"padding:0in 0in 0in 0in">
+<p class=3D"MsoNormal" align=3D"right" style=3D"text-align:right"><span sty=
+le=3D"font-size:8.5pt;font-family:&quot;Arial&quot;,sans-serif;color:#66666=
+6">&nbsp;&nbsp;<a href=3D"https://gcc02.safelinks.protection.outlook.com/?u=
+rl=3Dhttps%3A%2F%2Fvmm0dj30.r.us-west-2.awstrack.me%2FL0%2Fhttps%3A%252F%25=
+2Fsubscriberhelp.govdelivery.com%252F%2F1%2F010101921149482d-07173b28-c1bd-=
+4b74-9268-ae81ed05429a-000000%2FQf3TTgyV928TwLhHA4fbKxv6bdU%3D393&amp;data=
+=3D05%7C02%7Csirisha.pulivarthi%40dc.gov%7Cfc092ea1aec5462d509208dcd9bac05d=
+%7C8fe449f18b944fb799066f939da82d73%7C0%7C0%7C638624644467501258%7CUnknown%=
+7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6M=
+n0%3D%7C0%7C%7C%7C&amp;sdata=3Dd1Ji1lvKJBAZWWMQXpQPOU66irrbQop%2BNxE%2BBByW=
+SQU%3D&amp;reserved=3D0" originalsrc=3D"https://vmm0dj30.r.us-west-2.awstra=
+ck.me/L0/https:%2F%2Fsubscriberhelp.govdelivery.com%2F/1/010101921149482d-0=
+7173b28-c1bd-4b74-9268-ae81ed05429a-000000/Qf3TTgyV928TwLhHA4fbKxv6bdU=3D39=
+3" shash=3D"ZI3K5LFl9824emVev4uwHasyqhrDfUR2vAbwyO+VrB9zXKIEOOTCTzP1taKcpa5=
+LcldVsdOB+satyw4yj5rJhXNDvqVTn/6PbqZRSYeEZpsLo46rR66wrYS38D9dfCdMFo354stHe+=
+yPPWCzw3vf9bZEENBE1flrUhNsRzPV+U8=3D">Help</a></span><span style=3D"font-si=
+ze:9.0pt;font-family:&quot;Arial&quot;,sans-serif;color:#666666"><o:p></o:p=
+></span></p>
+</td>
+</tr>
+<tr>
+<td style=3D"padding:0in 0in 0in 0in">
+<p class=3D"MsoNormal">&nbsp;<o:p></o:p></p>
+</td>
+<td style=3D"padding:0in 0in 0in 0in">
+<p class=3D"MsoNormal">&nbsp;<o:p></o:p></p>
+</td>
+<td style=3D"padding:0in 0in 0in 0in">
+<p class=3D"MsoNormal">&nbsp;<o:p></o:p></p>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+<p class=3D"MsoNormal"><o:p>&nbsp;</o:p></p>
+</div>
+</body>
+</html>
+
+--_000_BLAPR09MB6914C02CC730CD9D1CD14F82916C2BLAPR09MB6914namp_--

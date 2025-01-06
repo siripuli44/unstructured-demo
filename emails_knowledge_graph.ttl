@@ -1,0 +1,21 @@
+@prefix ex: <http://example.org/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://example.org/email/520a95fdb32a0f7799a2e48b7be445fe> a ex:Email ;
+    ex:hasCategory "Community Update"^^xsd:string ;
+    ex:hasSubject "Celebrating 202Creates, CBC Week, Hispanic Heritage Month and More"^^xsd:string ;
+    ex:sentBy <http://example.org/person/Mayor%20Bowser%20%3CMayor.Bowser%40dc.gov%3E> ;
+    ex:sentOn "2024-09-13"^^xsd:date .
+
+<http://example.org/email/7aa85246d72d378d3e8b860cd49c9718> a ex:Email ;
+    ex:hasCategory "Community Update"^^xsd:string ;
+    ex:hasSubject "202Creates Month: Celebrating the Capital of Creativity"^^xsd:string ;
+    ex:sentBy <http://example.org/person/Mayor%20Bowser%20%3CMayor.Bowser%40dc.gov%3E> ;
+    ex:sentOn "2024-09-06"^^xsd:date .
+
+<http://example.org/email/c3f31afca9f0e26752be71a4bf4ec6dc> a ex:Email ;
+    ex:hasCategory "Community Update"^^xsd:string ;
+    ex:hasSubject "DC's Summer Recap"^^xsd:string ;
+    ex:sentBy <http://example.org/person/Mayor%20Bowser%20%3CMayor.Bowser%40dc.gov%3E> ;
+    ex:sentOn "2024-09-20"^^xsd:date .
+
